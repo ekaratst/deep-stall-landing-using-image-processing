@@ -1,0 +1,12 @@
+print " Pitch in Euler Angle : %f " % float(vehicle.attitude.pitch*const)
+
+print(" Airspeed: %s" % vehicle.airspeed)    # settable
+
+print(" Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
+
+import time
+
+start = time.time()
+print("hello")
+end = time.time()
+print(end - start)

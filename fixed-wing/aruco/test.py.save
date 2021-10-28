@@ -1,0 +1,15 @@
+#Load the dictionary that was used to generate the markers.
+2
+dictionary = cv.aruco.Dictionary_get(cv.aruco.DICT_6X6_250)
+3
+ 
+4
+# Initialize the detector parameters using default values
+5
+parameters =  cv.aruco.DetectorParameters_create()
+6
+ 
+7
+# Detect the markers in the image
+8
+markerCorners, markerIds, rejectedCandidates = cv.aruco.detectMarkers(frame, dictionary, parameters=parameters)
