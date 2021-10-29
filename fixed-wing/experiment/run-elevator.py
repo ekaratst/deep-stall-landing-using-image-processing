@@ -72,12 +72,12 @@ def deepstall(cap, out, isnot_deepstalled):
 				if pitch_down_now_time - pitch_down_start_time >= 5:
 					print("time out pitch down")
 					break
-				if current_alttitude <= 10.5 and current_alttitude >= 3:
+				if current_alttitude <= 25.5 and current_alttitude >= 3:
 					print("Reached deepstall altitude.")
 					break
 				if pitch_angle  >= -12:
 					print("Elevator down")
-					vehicle.channels.overrides['2'] = 1355
+					vehicle.channels.overrides['2'] = 1262
 				else:
 					vehicle.channels.overrides['2'] = 1525
 					print("Pitch angle has been adjusted to -15[deg]")
@@ -188,7 +188,7 @@ def deepstall(cap, out, isnot_deepstalled):
 		now = time.time()
 		time_ago = now -start
 		if (vehicle.location.global_relative_frame.alt <= 1 and time_ago > 60*3) or (key == ord('q')):
-			vehicle.channels.overrides['2'] = 1924
+			# vehicle.channels.overrides['2'] = 1924
 			time.sleep(3)
 			cap.release()
 			out.release()
