@@ -15,15 +15,14 @@ simulate_angle = [52.5, 49.82, 45.51, 40.33, 35.11, 28.86]
 ch2in = [1472, 1525, 1639, 1741, 1870, 2028]
 delta_angle = [3, 0, -5, -10, -15, -20]
 
-"""
-#1678 -> 10 deg
-#1507 -> Neutral
-#1186 -> -30 deg
-#-------------(deg) 3      0     -5     -10    -15   -20    -25    -30  
-simulate_angle = [52.5, 49.82, 45.51, 40.33, 35.11, 28.86, 23.81]
-radio_in_elevator = [1467, 1478, 1602, 1683, 1764, 1838, 1924] #ch2in radio calibration
-delta_angle = [3, 0, -5, -10, -15, -20, -25]
-"""
+# #1678 -> 10 deg
+# #1507 -> Neutral
+# #1186 -> -30 deg
+# #-------------(deg) 3      0     -5     -10    -15   -20    -25    -30  
+# simulate_angle = [52.5, 49.82, 45.51, 40.33, 35.11, 28.86, 23.81]
+# radio_in_elevator = [1467, 1478, 1602, 1683, 1764, 1838, 1924] #ch2in radio calibration
+# delta_angle = [3, 0, -5, -10, -15, -20, -25]
+
 timer_exit = 10
 
 #--- Define Tag
@@ -59,50 +58,50 @@ def deepstall(cap, out, isnot_deepstalled):
 	start = time.time()
 	while True:
 		print("ch7: ", vehicle.channels['7'])
-		# if int(vehicle.channels['7']) > 1514 and isnot_deepstalled:
-			# isnot_deepstalled = False
-			# print("toogled deepstall")
+		if int(vehicle.channels['7']) > 1514 and isnot_deepstalled:
+			isnot_deepstalled = False
+			print("toogled deepstall--------------")
 
-			# #-- pitch down
-			# pitch_down_start_time = time.time()
-			# while True:
-			# 	current_alttitude = vehicle.location.global_relative_frame.alt
-			# 	pitch_angle = math.degrees(vehicle.attitude.pitch) 
-			# 	pitch_down_now_time = time.time()
-			# 	print("pitch angle: ", pitch_angle)
-			# 	if pitch_down_now_time - pitch_down_start_time >= 5:
-			# 		print("time out pitch down")
-			# 		break
-			# 	if current_alttitude <= 10.5 and current_alttitude >= 3:
-			# 		print("Reached deepstall altitude.")
-			# 		break
-			# 	if pitch_angle  >= -12:
-			# 		print("Elevator down")
-			# 		vehicle.channels.overrides['2'] = 1384
-			# 	else:
-			# 		vehicle.channels.overrides['2'] = 1521
-			# 		print("Pitch angle has been adjusted to -15[deg]")
-			# 		continue
+			#-- pitch down
+			pitch_down_start_time = time.time()
+			while True:
+				current_alttitude = vehicle.location.global_relative_frame.alt
+				pitch_angle = math.degrees(vehicle.attitude.pitch) 
+				pitch_down_now_time = time.time()
+				print("pitch angle: ", pitch_angle)
+				if pitch_down_now_time - pitch_down_start_time >= 5:
+					print("time out pitch down")
+					break
+				if current_alttitude <= 10.5 and current_alttitude >= 3:
+					print("Reached deepstall altitude.")
+					break
+				if pitch_angle  >= -12:
+					print("Elevator down")
+					vehicle.channels.overrides['2'] = 1355
+				else:
+					vehicle.channels.overrides['2'] = 1525
+					print("Pitch angle has been adjusted to -15[deg]")
+					continue
 
-			# #-- deepstall 
-			# pitch_up_start_time = time.time()
-			# while True:
-			# 	pitch_angle = math.degrees(vehicle.attitude.pitch) 
-			# 	pitch_up_now_time = time.time()
-			# 	print("pitch angle: ", pitch_angle)
-			# 	if pitch_up_now_time - pitch_up_start_time >= 5:
-			# 		print("time out pitch up")
-			# 		break
-			# 	if pitch_angle  <= 27:
-			# 		print("Elevator up")
-			# 		vehicle.channels.overrides['2'] = 1924
-			# 	else:
-			# 		vehicle.channels.overrides['2'] = 1521
-			# 		print("Pitch angle has been adjusted to 60[deg]")
-			# 		break
+			#-- deepstall 
+			pitch_up_start_time = time.time()
+			while True:
+				pitch_angle = math.degrees(vehicle.attitude.pitch) 
+				pitch_up_now_time = time.time()
+				print("pitch angle: ", pitch_angle)
+				if pitch_up_now_time - pitch_up_start_time >= 5:
+					print("time out pitch up")
+					break
+				if pitch_angle  <= 27:
+					print("Elevator up")
+					vehicle.channels.overrides['2'] = 2028
+				else:
+					vehicle.channels.overrides['2'] = 1525
+					print("Pitch angle has been adjusted to 60[deg]")
+					break
 		
-		# if int(vehicle.channels['7']) < 1514:
-		# 	isnot_deepstalled = True
+		if int(vehicle.channels['7']) < 1514:
+			isnot_deepstalled = True
 
 		#-- detect and adjust
 			
@@ -166,7 +165,7 @@ def deepstall(cap, out, isnot_deepstalled):
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1])))
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-			adjustElevator(trajectory_angle)
+			# adjustElevator(trajectory_angle)
 			
 		# else:
 		# 	vehicle.channels.overrides['2'] = 1500
@@ -190,7 +189,7 @@ def deepstall(cap, out, isnot_deepstalled):
 		time_ago = now -start
 		if (vehicle.location.global_relative_frame.alt <= 1 and time_ago > 60*3) or (key == ord('q')):
 			vehicle.channels.overrides['2'] = 1924
-			# time.sleep(3)
+			time.sleep(3)
 			cap.release()
 			out.release()
 			cv2.destroyAllWindows()
@@ -256,8 +255,8 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	video_filename = "../../../Videos/ground/28-10-64_detect_test_" + args.number_of_run + ".avi"
-	# video_filename = "../../../Videos/flight/29-10-64_deepstall_ele_test_" + args.number_of_run + ".avi"
+	# video_filename = "../../../Videos/ground/28-10-64_detect_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/flight/29-10-64_deepstall_ele_test_" + args.number_of_run + ".avi"
 	
 	cap = cv2.VideoCapture(0)
 
