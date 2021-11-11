@@ -69,6 +69,8 @@ def deepstall(cap, out, isnot_deepstalled):
 				pitch_angle = math.degrees(vehicle.attitude.pitch) 
 				pitch_down_now_time = time.time()
 				print("pitch angle: ", pitch_angle)
+				if int(vehicle.channels['7']) <= 1514:
+					break
 				if pitch_down_now_time - pitch_down_start_time >= 5:
 					print("time out pitch down")
 					break
