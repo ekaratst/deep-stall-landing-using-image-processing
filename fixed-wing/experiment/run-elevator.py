@@ -74,7 +74,7 @@ def deepstall(cap, out, isnot_deepstalled):
 				if pitch_down_now_time - pitch_down_start_time >= 5:
 					print("time out pitch down")
 					break
-				if current_alttitude <= 25.5 and current_alttitude >= 3:
+				if current_alttitude <= 10.5 and current_alttitude >= 3:
 					print("Reached deepstall altitude.")
 					break
 				if pitch_angle  >= -12:
@@ -194,10 +194,13 @@ def deepstall(cap, out, isnot_deepstalled):
 		# 	break	
 
 		#-- flare
+
 		key = cv2.waitKey(1) & 0xFF
 		now = time.time()
 		time_ago = now -start
-		if (vehicle.is_armable == False and time_ago > 60*3) or (key == ord('q')):
+		# if key == ord('q'):
+		print("ch8: ", vehicle.channels['8'])
+		if (int(vehicle.channels['8']) > 1514) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
@@ -264,7 +267,7 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	video_filename = "../../../Videos/ground/11-11-64_deepstall_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/ground/15-11-64_ground_test_" + args.number_of_run + ".avi"
 	# video_filename = "../../../Videos/flight/12-11-64_deepstall_test_" + args.number_of_run + ".avi"
 	
 	cap = cv2.VideoCapture(0)
