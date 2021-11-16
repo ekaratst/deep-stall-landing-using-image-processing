@@ -194,13 +194,23 @@ def deepstall(cap, out, isnot_deepstalled):
 		# 	break	
 
 		#-- flare
+<<<<<<< HEAD
 
+=======
+		print("is arm: ", vehicle.is_armable)
+		print("Airspeed: ", vehicle.airspeed)
+		time.sleep(1)
+>>>>>>> 98f778dceeef86962c06055525b7196342491b32
 		key = cv2.waitKey(1) & 0xFF
 		now = time.time()
 		time_ago = now -start
 		# if key == ord('q'):
+<<<<<<< HEAD
 		print("ch8: ", vehicle.channels['8'])
 		if (int(vehicle.channels['8']) > 1514) or (key == ord('q')):
+=======
+		if (time_ago > 60*3) or (key == ord('q')):
+>>>>>>> 98f778dceeef86962c06055525b7196342491b32
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
@@ -267,8 +277,13 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
+<<<<<<< HEAD
 	video_filename = "../../../Videos/ground/15-11-64_ground_test_" + args.number_of_run + ".avi"
 	# video_filename = "../../../Videos/flight/12-11-64_deepstall_test_" + args.number_of_run + ".avi"
+=======
+	# video_filename = "../../../Videos/ground/11-11-64_deepstall_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/flight/12-11-64_deepstall_test_" + args.number_of_run + ".avi"
+>>>>>>> 98f778dceeef86962c06055525b7196342491b32
 	
 	cap = cv2.VideoCapture(0)
 
