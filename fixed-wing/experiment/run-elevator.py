@@ -144,7 +144,7 @@ def deepstall(cap, out, isnot_deepstalled):
 			y_position = tvec[1]
 			z_position = tvec[2]
 			
-			str_position = "MARKER Position x=%4.0f z=%4.0f z=%4.0f"%(x_position, y_position, z_position)
+			str_position = "MARKER Position x=%4.0f y=%4.0f z=%4.0f"%(x_position, y_position, z_position)
 			cv2.putText(frame, str_position, (0, 100), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
 			#-- Obtain the rotation matrix tag->camera
@@ -172,7 +172,10 @@ def deepstall(cap, out, isnot_deepstalled):
 								math.degrees(yaw_camera))
 			cv2.putText(frame, str_attitude, (0, 250), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1])))
+			y_distance = abs(y_position) + 20 
+			alt = vehicle.location.global_relative_frame.alt * 100
+			trajectory_angle = abs(math.degrees(math.atan(alt/y_distance))) #by real distance
+			# trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
 			# adjustElevator(trajectory_angle)

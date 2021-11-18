@@ -69,17 +69,17 @@ cap = cv2.VideoCapture(0)
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640) #1280
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480) #720
 
-out = cv2.VideoWriter('video_test.avi', 
-                         cv2.VideoWriter_fourcc(*'MJPG'),
-                         30, (640,480))
+# # out = cv2.VideoWriter('video_test.avi', 
+#                          cv2.VideoWriter_fourcc(*'MJPG'),
+#                          30, (640,480))
 
 font = cv2.FONT_HERSHEY_PLAIN
 
 
     
 
-t = threading.Timer(timer_exit, exit_program)
-t.start()
+# t = threading.Timer(timer_exit, exit_program)
+# t.start()
 
 while True:
 
@@ -144,7 +144,7 @@ while True:
         trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1])))
         cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-    out.write(frame)
+    # out.write(frame)
 
 	# --- Display the frame
     cv2.imshow('frame', frame)
@@ -153,7 +153,7 @@ while True:
     key = cv2.waitKey(1) & 0xFF
     if key == ord('q'):
         cap.release()
-        out.release()
+        # out.release()
         cv2.destroyAllWindows()
         break
 
