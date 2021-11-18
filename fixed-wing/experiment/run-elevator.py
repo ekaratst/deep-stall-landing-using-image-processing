@@ -27,7 +27,7 @@ timer_exit = 10
 
 #--- Define Tag
 id_to_find  = 72
-marker_size  = 49.8 #- [cm]
+marker_size  = 50 #- [cm]
 
 font = cv2.FONT_HERSHEY_PLAIN
 
@@ -265,7 +265,7 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	video_filename = "../../../Videos/ground/15-11-64_ground_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/ground/18-11-64_ground_test_" + args.number_of_run + ".avi"
 	# video_filename = "../../../Videos/flight/12-11-64_deepstall_test_" + args.number_of_run + ".avi"
 
 	cap = cv2.VideoCapture(0)
