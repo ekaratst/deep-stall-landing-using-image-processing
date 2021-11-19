@@ -268,8 +268,8 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	video_filename = "../../../Videos/ground/18-11-64_ground_test_" + args.number_of_run + ".avi"
-	# video_filename = "../../../Videos/flight/12-11-64_deepstall_test_" + args.number_of_run + ".avi"
+	# video_filename = "../../../Videos/ground/18-11-64_ground_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/flight/19-11-64_deepstall_test_" + args.number_of_run + ".avi"
 
 	cap = cv2.VideoCapture(0)
 
