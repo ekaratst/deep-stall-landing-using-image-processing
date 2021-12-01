@@ -51,39 +51,51 @@ vehicle = connect(connection_string, baud=baud_rate, wait_ready=True)
 vehicle.wait_ready('autopilot_version')
 
 isnot_deepstalled = True
-
+is_deepstalled = False
 
 def deepstall(cap, out, isnot_deepstalled):
 	print("Thread-2")
 	start = time.time()
 	while True:
-		print("ch7: ", vehicle.channels['7'])
-		if int(vehicle.channels['7']) > 1514 and isnot_deepstalled:
-			isnot_deepstalled = False
-			print("toogled deepstall--------------")
+		if int(vehicle.channels['7']) > 1514:
+			is_deepstalled = False
 
-			#-- pitch down
-			pitch_down_start_time = time.time()
-			while True:
-				current_alttitude = vehicle.location.global_relative_frame.alt
-				pitch_angle = math.degrees(vehicle.attitude.pitch) 
-				pitch_down_now_time = time.time()
-				print("pitch angle: ", pitch_angle)
-				if int(vehicle.channels['7']) <= 1514:
-					break
-				if pitch_down_now_time - pitch_down_start_time >= 5:
-					print("time out pitch down")
-					break
-				if current_alttitude <= 10.5 and current_alttitude >= 3:
-					print("Reached deepstall altitude.")
-					break
-				if pitch_angle  >= -12:
-					print("Elevator down")
-					vehicle.channels.overrides['2'] = 1262
-				else:
-					# vehicle.channels.overrides['2'] = 1525
-					print("Pitch angle has been adjusted to -15[deg]")
-					continue
+		if vehicle.mode.name == "AUTO":
+			pitch_angle = math.degrees(vehicle.attitude.pitch) 
+			if pitch_angle  >= 60 :
+				is_deepstalled = True
+
+		if is_deepstalled:
+			vehicle.channels.overrides['2'] = 2028
+			
+
+		# print("ch7: ", vehicle.channels['7'])
+		# if int(vehicle.channels['7']) > 1514 and isnot_deepstalled:
+		# 	isnot_deepstalled = False
+		# 	print("toogled deepstall--------------")
+
+		# 	#-- pitch down
+		# 	pitch_down_start_time = time.time()
+		# 	while True:
+		# 		current_alttitude = vehicle.location.global_relative_frame.alt
+		# 		pitch_angle = math.degrees(vehicle.attitude.pitch) 
+		# 		pitch_down_now_time = time.time()
+		# 		print("pitch angle: ", pitch_angle)
+		# 		if int(vehicle.channels['7']) <= 1514:
+		# 			break
+		# 		if pitch_down_now_time - pitch_down_start_time >= 5:
+		# 			print("time out pitch down")
+		# 			break
+		# 		if current_alttitude <= 10.5 and current_alttitude >= 3:
+		# 			print("Reached deepstall altitude.")
+		# 			break
+		# 		if pitch_angle  >= -12:
+		# 			print("Elevator down")
+		# 			vehicle.channels.overrides['2'] = 1262
+		# 		else:
+		# 			# vehicle.channels.overrides['2'] = 1525
+		# 			print("Pitch angle has been adjusted to -15[deg]")
+		# 			continue
 
 			#-- deepstall 
 			# pitch_up_start_time = time.time()
@@ -102,12 +114,13 @@ def deepstall(cap, out, isnot_deepstalled):
 			# 		print("Pitch angle has been adjusted to 60[deg]")
 			# 		break
 
-		if int(vehicle.channels['7']) > 1514:
-			vehicle.channels.overrides['2'] = 2028
-		else:
-			print("Pilot control")
-			isnot_deepstalled = True
-			vehicle.channels.overrides = {}
+		# if int(vehicle.channels['7']) > 1514:
+		# 	vehicle.channels.overrides['2'] = 2028
+		# else:
+		# 	print("Pilot control")
+		# 	isnot_deepstalled = True
+		# 	vehicle.channels.overrides = {}
+		
 
 		# if int(vehicle.channels['7']) < 1514:
 		# 	isnot_deepstalled = True
@@ -178,7 +191,7 @@ def deepstall(cap, out, isnot_deepstalled):
 			# trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-			# adjustElevator(trajectory_angle)
+			# adjustElevator(trajectory_angle, is_deepstalled)
 			
 		# else:
 		# 	vehicle.channels.overrides['2'] = 1500
@@ -208,8 +221,9 @@ def deepstall(cap, out, isnot_deepstalled):
 			cv2.destroyAllWindows()
 			break	
 
-def adjustElevator(trajectory_angle):
-	if int(vehicle.channels['7']) > 1514:
+def adjustElevator(trajectory_angle, is_deepstalled):
+	if vehicle.mode.name == "AUTO" and is_deepstalled:
+	# if int(vehicle.channels['7']) > 1514:
 		if trajectory_angle >= simulate_angle[0]:
 			vehicle.channels.overrides['2'] = ch2in[0]
 			print("adjust elevator angle to: 3 deg")
