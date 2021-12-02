@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 from __future__ import print_function
-from dronekit import connect, VehicleMode
+from dronekit import connect, VehicleMode, LocationGlobalRelative
 import numpy as np
 import cv2
 import cv2.aruco as aruco
@@ -56,14 +56,14 @@ is_deepstalled = False
 def deepstall(cap, out, is_deepstalled):
 	print("Thread-2")
 	start = time.time()
-	lat = 0
-    lon = 0
-    alt = 0
-    targetWaypointLocation = LocationGlobalRelative(lat,lon,alt)
+	# lat = 13.8472679
+	# lon = 100.5659160
+	# alt = 10
+	# targetWaypointLocation = LocationGlobalRelative(lat,lon,alt)
 	while True:
-		if int(vehicle.channels['7']) > 1514:
-			vehicle.channels.overrides = {}
-			is_deepstalled = False
+		# if int(vehicle.channels['7']) > 1514:
+		# 	vehicle.channels.overrides = {}
+		# 	is_deepstalled = False
 
 		# lat = vehicle.location.global_relative_frame.alt
 		# lon = vehicle.location.global_relative_frame.lon
@@ -72,14 +72,38 @@ def deepstall(cap, out, is_deepstalled):
 		print("Mode:", vehicle.mode.name)
 		# if vehicle.location.global_relative_frame.lat <= 
 
-		if vehicle.mode.name == "AUTO":
-			pitch_angle = math.degrees(vehicle.attitude.pitch) 
-			print("pitch_angle: ", pitch_angle)
-			# if pitch_angle  >= 60 :
-			if get_distance_metres(vehicle.location.global_relative_frame, targetWaypointLocation) <= 2
-				vehicle.channels.overrides['2'] = 2114
-				print("Deep stall!!!")
-				is_deepstalled = True
+		if int(vehicle.channels['6']) < 1514: # D switch
+			print("Deep stall using STABILIZE Mode")
+			if vehicle.mode.name == "STABILIZE":
+				print("ch7: ", vehicle.channels['7']) # G switch
+				if int(vehicle.channels['7']) > 1514: # toggle when enter auto mode
+					if int(vehicle.channels['6']) < 1514:
+						pitch_angle = math.degrees(vehicle.attitude.pitch) 
+						print("pitch_angle: ", pitch_angle)
+					# if pitch_angle  >= 60 :
+					# if get_distance_metres(vehicle.location.global_relative_frame, targetWaypointLocation) <= 3:
+						vehicle.channels.overrides['2'] = 2114
+						print("Deep stall!!!")
+						is_deepstalled = True
+				else:
+					is_deepstalled = False
+					print("Pilot control")
+					vehicle.channels.overrides = {}
+		else:
+			print("Deep stall using Altitude")
+			print("ch7: ", vehicle.channels['7']) # G switch
+			if int(vehicle.channels['7']) > 1514: # toggle when enter auto mode
+				current_alttitude = vehicle.location.global_relative_frame.alt
+				print("current alttitude: ", current_alttitude)
+				if current_alttitude <= 10*1.05:
+					vehicle.mode = VehicleMode("STABILIZE")
+					vehicle.channels.overrides['2'] = 2114
+					print("Deep stall!!!")
+					is_deepstalled = True
+			else:
+					is_deepstalled = False
+					print("Pilot control")
+					vehicle.channels.overrides = {}
 
 		print("is_deepstalled: ", is_deepstalled)
 		if is_deepstalled == True:
@@ -309,8 +333,8 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	# video_filename = "../../../Videos/ground/01-12-64_ground_test_" + args.number_of_run + ".avi"
-	video_filename = "../../../Videos/flight/02-12-64_deepstall_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/ground/02-12-64_ground_test_" + args.number_of_run + ".avi"
+	# video_filename = "../../../Videos/flight/02-12-64_deepstall_test_" + args.number_of_run + ".avi"
 
 	cap = cv2.VideoCapture(0)
 
