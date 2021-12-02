@@ -29,10 +29,16 @@ vehicle = connect(connection_string, baud=baud_rate, wait_ready=True)
 vehicle.wait_ready('autopilot_version')
 
 while True:
+	print(" GPS: %s" % vehicle.gps_0)
+	# Print location information for `vehicle` in all frames (default printer)
+	print("Global Location: %s" % vehicle.location.global_frame)
+	print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
+	print("Local Location: %s" % vehicle.location.local_frame)
 
-	print(" Mode: %s" % vehicle.mode.name)
-	if vehicle.mode.name == "AUTO":
-		print("AUTO!!!")
+	# print(" Mode: %s" % vehicle.mode.name)
+	# if vehicle.mode.name == "AUTO":
+	# 	print("AUTO!!!")
+
 	# msg =  vehicle.message_factory.mav_cmd_do_set_servo_encode(7,1900)
 	# vehicle.send_mavlink(msg)
 

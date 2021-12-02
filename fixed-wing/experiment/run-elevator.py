@@ -53,20 +53,31 @@ vehicle.wait_ready('autopilot_version')
 isnot_deepstalled = True
 is_deepstalled = False
 
-def deepstall(cap, out, isnot_deepstalled):
+def deepstall(cap, out, is_deepstalled):
 	print("Thread-2")
 	start = time.time()
 	while True:
 		if int(vehicle.channels['7']) > 1514:
+			vehicle.channels.overrides = {}
 			is_deepstalled = False
-
+			lat = vehicle.location.global_relative_frame.alt
+			lon = vehicle.location.global_relative_frame.lon
+			print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
+		
+		print("Mode:", vehicle.mode.name)
+		# if vehicle.location.global_relative_frame.lat <= 
 		if vehicle.mode.name == "AUTO":
 			pitch_angle = math.degrees(vehicle.attitude.pitch) 
+			print("pitch_angle: ", pitch_angle)
 			if pitch_angle  >= 60 :
+				print("Deep stall!!!")
 				is_deepstalled = True
 
-		if is_deepstalled:
-			vehicle.channels.overrides['2'] = 2028
+		print("is_deepstalled: ", is_deepstalled)
+		if is_deepstalled == True:
+			vehicle.channels.overrides['2'] = 2114
+			print("Elevator up")
+		
 			
 
 		# print("ch7: ", vehicle.channels['7'])
@@ -187,9 +198,14 @@ def deepstall(cap, out, isnot_deepstalled):
 
 			y_distance = abs(y_position) + 20 
 			alt = vehicle.location.global_relative_frame.alt * 100
-			trajectory_angle = abs(math.degrees(math.atan(alt/y_distance))) #by real distance
-			# trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
+			# trajectory_angle = abs(math.degrees(math.atan(alt/y_distance))) #by real distance
+			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
+		
+		# else:
+		# 	if is_deepstalled:
+		# 		vehicle.channels.overrides['2'] = 2114
+		# 		print("Elevator up2")
 
 			# adjustElevator(trajectory_angle, is_deepstalled)
 			
@@ -282,8 +298,8 @@ try:
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	# video_filename = "../../../Videos/ground/18-11-64_ground_test_" + args.number_of_run + ".avi"
-	video_filename = "../../../Videos/flight/19-11-64_deepstall_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/ground/01-12-64_ground_test_" + args.number_of_run + ".avi"
+	# video_filename = "../../../Videos/flight/02-12-64_deepstall_test_" + args.number_of_run + ".avi"
 
 	cap = cv2.VideoCapture(0)
 
@@ -300,7 +316,7 @@ try:
 							10, size)
 						
 	# _thread.start_new_thread( timer, (cap, out, ))
-	_thread.start_new_thread( deepstall, (cap, out, isnot_deepstalled, ))
+	_thread.start_new_thread( deepstall, (cap, out, is_deepstalled, ))
  
 except:
 	print ("Error: unable to start thread")
