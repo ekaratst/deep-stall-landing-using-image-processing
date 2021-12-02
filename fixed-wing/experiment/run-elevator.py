@@ -60,12 +60,16 @@ def deepstall(cap, out, is_deepstalled):
 		if int(vehicle.channels['7']) > 1514:
 			vehicle.channels.overrides = {}
 			is_deepstalled = False
+<<<<<<< HEAD
 			lat = vehicle.location.global_relative_frame.alt
 			lon = vehicle.location.global_relative_frame.lon
 			print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
 		
 		print("Mode:", vehicle.mode.name)
 		# if vehicle.location.global_relative_frame.lat <= 
+=======
+		print("Mode:", vehicle.mode.name)
+>>>>>>> feda8900dae1441d52c3a36380912b9e817b4769
 		if vehicle.mode.name == "AUTO":
 			pitch_angle = math.degrees(vehicle.attitude.pitch) 
 			print("pitch_angle: ", pitch_angle)
