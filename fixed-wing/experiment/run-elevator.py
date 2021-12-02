@@ -56,24 +56,28 @@ is_deepstalled = False
 def deepstall(cap, out, is_deepstalled):
 	print("Thread-2")
 	start = time.time()
+	lat = 0
+    lon = 0
+    alt = 0
+    targetWaypointLocation = LocationGlobalRelative(lat,lon,alt)
 	while True:
 		if int(vehicle.channels['7']) > 1514:
 			vehicle.channels.overrides = {}
 			is_deepstalled = False
-<<<<<<< HEAD
-			lat = vehicle.location.global_relative_frame.alt
-			lon = vehicle.location.global_relative_frame.lon
-			print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
+
+		# lat = vehicle.location.global_relative_frame.alt
+		# lon = vehicle.location.global_relative_frame.lon
+		# print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
 		
 		print("Mode:", vehicle.mode.name)
 		# if vehicle.location.global_relative_frame.lat <= 
-=======
-		print("Mode:", vehicle.mode.name)
->>>>>>> feda8900dae1441d52c3a36380912b9e817b4769
+
 		if vehicle.mode.name == "AUTO":
 			pitch_angle = math.degrees(vehicle.attitude.pitch) 
 			print("pitch_angle: ", pitch_angle)
-			if pitch_angle  >= 60 :
+			# if pitch_angle  >= 60 :
+			if get_distance_metres(vehicle.location.global_relative_frame, targetWaypointLocation) <= 2
+				vehicle.channels.overrides['2'] = 2114
 				print("Deep stall!!!")
 				is_deepstalled = True
 
@@ -295,15 +299,18 @@ def rotationMatrixToEulerAngles(R):
 
     return np.array([x, y, z])
 
-
+def get_distance_metres(aLocation1, aLocation2):
+    dlat = aLocation2.lat - aLocation1.lat
+    dlong = aLocation2.lon - aLocation1.lon
+    return math.sqrt((dlat*dlat) + (dlong*dlong)) * 1.113195e5
 
 try:
 	parser = argparse.ArgumentParser()
 	parser.add_argument("number_of_run")
 	args = parser.parse_args()
 
-	video_filename = "../../../Videos/ground/01-12-64_ground_test_" + args.number_of_run + ".avi"
-	# video_filename = "../../../Videos/flight/02-12-64_deepstall_test_" + args.number_of_run + ".avi"
+	# video_filename = "../../../Videos/ground/01-12-64_ground_test_" + args.number_of_run + ".avi"
+	video_filename = "../../../Videos/flight/02-12-64_deepstall_test_" + args.number_of_run + ".avi"
 
 	cap = cv2.VideoCapture(0)
 
