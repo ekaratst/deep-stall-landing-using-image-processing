@@ -1,5 +1,5 @@
 from __future__ import print_function
-from dronekit import connect, VehicleMode, mavutil
+from dronekit import connect, VehicleMode, mavutil, LocationGlobalRelative
 import numpy as np
 import cv2
 import cv2.aruco as aruco
