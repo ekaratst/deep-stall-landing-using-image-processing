@@ -6,6 +6,14 @@ import numpy as np
 import cv2
 import cv2.aruco as aruco
 import sys, time, math, _thread, argparse
+import time
+import xlsxwriter
+
+timestr = time.strftime("%Y-%m-%d_%H-%M-%S")
+print(timestr)
+
+row = 0
+col = 0
 
 connection_string = "/dev/ttyACM0"
 baud_rate = 57600
@@ -73,25 +81,25 @@ def deepstall(is_deepstalled):
 		# else:
 		print("ch7: ", vehicle.channels['7']) # G switch
 		if int(vehicle.channels['7']) > 1514: # toggle when enter auto mode
-			current_alttitude = vehicle.location.global_relative_frame.alt
-			print("Waiting for target altitude...")
-			print("current alttitude: ", current_alttitude)
-			if current_alttitude <= 10*1.05:
-				vehicle.mode = VehicleMode("STABILIZE")
-				vehicle.channels.overrides['2'] = 1925
-				print("Deep stall!!!")
-				is_deepstalled = True		
+			# current_alttitude = vehicle.location.global_relative_frame.alt
+			# print("Waiting for target altitude...")
+			# print("current alttitude: ", current_alttitude)
+			# if current_alttitude <= 10*1.05:
+			vehicle.mode = VehicleMode("STABILIZE")
+			vehicle.channels.overrides['2'] = 1925
+			print("Deep stall!!!")
+			is_deepstalled = True		
 		else:
 			is_deepstalled = False
 			print("Pilot control")
 			vehicle.channels.overrides = {}
 
 		print("is_deepstalled: ", is_deepstalled)
-		if is_deepstalled == True:
-			vehicle.channels.overrides['2'] = 1925
-			print("Elevator up")
-		else:
-			vehicle.channels.overrides = {}
+		# if is_deepstalled == True:
+		# 	vehicle.channels.overrides['2'] = 1925
+		# 	print("Elevator up")
+		# else:
+		# 	vehicle.channels.overrides = {}
 		print("-------------------------------------\n")
 
 def adjustElevator(trajectory_angle, is_deepstalled):
