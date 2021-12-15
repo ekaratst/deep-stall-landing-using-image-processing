@@ -12,6 +12,9 @@ import xlsxwriter
 timestr = time.strftime("%Y-%m-%d_%H-%M-%S")
 print(timestr)
 
+workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
+worksheet = workbook.add_worksheet("My sheet")
+
 row = 0
 col = 0
 
@@ -56,8 +59,9 @@ def deepstall(is_deepstalled):
 		# lon = vehicle.location.global_relative_frame.lon
 		# print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
 		# print("Deep stall using Altitude")
-		alttitude = vehicle.location.global_relative_frame.alt
+		
 		# print("alttitude: ", alttitude)
+		vehicle.mode = VehicleMode("STABILIZE")
 		print("Mode:", vehicle.mode.name)
 		# if vehicle.location.global_relative_frame.lat <= 
 
@@ -79,28 +83,45 @@ def deepstall(is_deepstalled):
 		# 			print("Pilot control")
 		# 			vehicle.channels.overrides = {}
 		# else:
-		print("ch7: ", vehicle.channels['7']) # G switch
-		if int(vehicle.channels['7']) > 1514: # toggle when enter auto mode
-			# current_alttitude = vehicle.location.global_relative_frame.alt
-			# print("Waiting for target altitude...")
-			# print("current alttitude: ", current_alttitude)
-			# if current_alttitude <= 10*1.05:
-			vehicle.mode = VehicleMode("STABILIZE")
-			vehicle.channels.overrides['2'] = 1925
-			print("Deep stall!!!")
-			is_deepstalled = True		
-		else:
-			is_deepstalled = False
-			print("Pilot control")
-			vehicle.channels.overrides = {}
+		start_time = toggle_deepstall(is_deepstalled)
+		post_stall(start_time, row ,col)
 
-		print("is_deepstalled: ", is_deepstalled)
+		
 		# if is_deepstalled == True:
 		# 	vehicle.channels.overrides['2'] = 1925
 		# 	print("Elevator up")
 		# else:
 		# 	vehicle.channels.overrides = {}
 		print("-------------------------------------\n")
+
+def toggle_deepstall(is_deepstalled):
+	print("ch7: ", vehicle.channels['7']) # G switch
+	if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+		vehicle.mode = VehicleMode("STABILIZE")
+		vehicle.channels.overrides['2'] = 1925
+		start_time = time.time()
+		is_deepstalled = True
+		print("Deep stall!!!")	
+		return start_time
+	else:
+		is_deepstalled = False
+		vehicle.channels.overrides = {}
+		print("Pilot control")
+
+def post_stall(start_time, row, col):
+	vehicle.channels.overrides['2'] = 1925
+	post_stall_time = time.time()
+	print ("Groundspeed: %s" % vehicle.groundspeed)
+	del_time = post_stall_time - start_time
+	print(del_time)
+	# if (post_stall_time - start_time) % 0.1 == 0:
+	# 	altitude = vehicle.location.global_relative_frame.alt
+	# 	x_distance  = 0.1 * vehicle.groundspeed
+	# 	worksheet.write(row, col, altitude)
+	# 	worksheet.write(row, col + 1, x_distance)
+	# 	row += 1
+	time.sleep(0.5)
+
 
 def adjustElevator(trajectory_angle, is_deepstalled):
 	if vehicle.mode.name == "AUTO" and is_deepstalled:
