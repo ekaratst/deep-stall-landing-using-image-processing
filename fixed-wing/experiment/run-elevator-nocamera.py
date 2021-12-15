@@ -17,6 +17,11 @@ worksheet = workbook.add_worksheet("My sheet")
 
 row = 0
 col = 0
+
+worksheet.write(row, col, "Altitude")
+worksheet.write(row, col + 1, "Horizontal distance")
+
+row += 1
 ratio_time = 0
 connection_string = "/dev/ttyACM0"
 baud_rate = 57600
@@ -84,7 +89,8 @@ def deepstall(is_deepstalled):
 		# 			vehicle.channels.overrides = {}
 		# else:
 		start_time = toggle_deepstall(is_deepstalled)
-		post_stall(start_time, row ,col, ratio_time)
+		print(start_time)
+		# post_stall(start_time, row ,col, ratio_time)
 
 		
 		# if is_deepstalled == True:
@@ -94,16 +100,20 @@ def deepstall(is_deepstalled):
 		# 	vehicle.channels.overrides = {}
 		print("-------------------------------------\n")
 
+
 def toggle_deepstall(is_deepstalled):
 	print("ch7: ", vehicle.channels['7']) # G switch
 	if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+		print(is_deepstalled)
 		vehicle.mode = VehicleMode("STABILIZE")
 		vehicle.channels.overrides['2'] = 1925
+		# if n_deepstall == 0:
 		start_time = time.time()
+		# n += 1
 		is_deepstalled = True
 		print("Deep stall!!!")	
-		return start_time
-	else:
+		return float(start_time)
+	if int(vehicle.channels['7']) < 1514:
 		is_deepstalled = False
 		vehicle.channels.overrides = {}
 		print("Pilot control")
@@ -112,17 +122,20 @@ def post_stall(start_time, row, col, ratio_time):
 	vehicle.channels.overrides['2'] = 1925
 	post_stall_time = time.time()
 	print ("Groundspeed: %s" % vehicle.groundspeed)
-	del_time = post_stall_time - start_time
-	print(del_time)
+	diff_time = float(post_stall_time) - float(start_time)
+	# print(diff_time)
 
-	if del_time >= 0.1 * ratio_time:
-		print(del_time)
+	if diff_time >= 0.1 * ratio_time:
+		print(diff_time)
 		altitude = vehicle.location.global_relative_frame.alt
-		x_distance  = 0.1 * vehicle.groundspeed
+		horizontal_distance  = 0.1 * vehicle.groundspeed
 		worksheet.write(row, col, altitude)
-		worksheet.write(row, col + 1, x_distance)
+		worksheet.write(row, col + 1, horizontal_distance)
 		row += 1
 		ratio_time += 1
+
+	if diff_time >= 10:
+		workbook.close()
 	# time.sleep(0.5)
 
 
