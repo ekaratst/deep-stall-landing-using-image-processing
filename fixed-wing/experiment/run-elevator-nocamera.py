@@ -17,7 +17,7 @@ worksheet = workbook.add_worksheet("My sheet")
 
 row = 0
 col = 0
-
+ratio_time = 0
 connection_string = "/dev/ttyACM0"
 baud_rate = 57600
 
@@ -84,7 +84,7 @@ def deepstall(is_deepstalled):
 		# 			vehicle.channels.overrides = {}
 		# else:
 		start_time = toggle_deepstall(is_deepstalled)
-		post_stall(start_time, row ,col)
+		post_stall(start_time, row ,col, ratio_time)
 
 		
 		# if is_deepstalled == True:
@@ -108,19 +108,22 @@ def toggle_deepstall(is_deepstalled):
 		vehicle.channels.overrides = {}
 		print("Pilot control")
 
-def post_stall(start_time, row, col):
+def post_stall(start_time, row, col, ratio_time):
 	vehicle.channels.overrides['2'] = 1925
 	post_stall_time = time.time()
 	print ("Groundspeed: %s" % vehicle.groundspeed)
 	del_time = post_stall_time - start_time
 	print(del_time)
-	# if (post_stall_time - start_time) % 0.1 == 0:
-	# 	altitude = vehicle.location.global_relative_frame.alt
-	# 	x_distance  = 0.1 * vehicle.groundspeed
-	# 	worksheet.write(row, col, altitude)
-	# 	worksheet.write(row, col + 1, x_distance)
-	# 	row += 1
-	time.sleep(0.5)
+
+	if del_time >= 0.1 * ratio_time:
+		print(del_time)
+		altitude = vehicle.location.global_relative_frame.alt
+		x_distance  = 0.1 * vehicle.groundspeed
+		worksheet.write(row, col, altitude)
+		worksheet.write(row, col + 1, x_distance)
+		row += 1
+		ratio_time += 1
+	# time.sleep(0.5)
 
 
 def adjustElevator(trajectory_angle, is_deepstalled):
@@ -148,15 +151,12 @@ def adjustElevator(trajectory_angle, is_deepstalled):
 		# 	vehicle.channels.overrides['2'] = 1911
 		# 	print("adjust elevator angle to: -25 deg")
 
-
-
 def get_distance_metres(aLocation1, aLocation2):
     dlat = aLocation2.lat - aLocation1.lat
     dlong = aLocation2.lon - aLocation1.lon
     return math.sqrt((dlat*dlat) + (dlong*dlong)) * 1.113195e5
 
 try:				
-	# deepstall(is_deepstalled)
 	_thread.start_new_thread( deepstall, (is_deepstalled, ))
  
 except:
