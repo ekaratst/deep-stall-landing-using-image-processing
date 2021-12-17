@@ -21,6 +21,8 @@ col = 0
 worksheet.write(row, col, "Altitude")
 worksheet.write(row, col + 1, "Horizontal distance")
 
+n = 0
+
 row += 1
 ratio_time = 0
 connection_string = "/dev/ttyACM0"
@@ -88,9 +90,25 @@ def deepstall(is_deepstalled):
 		# 			print("Pilot control")
 		# 			vehicle.channels.overrides = {}
 		# else:
-		start_time = toggle_deepstall(is_deepstalled)
-		print(start_time)
-		# post_stall(start_time, row ,col, ratio_time)
+
+		print("ch7: ", vehicle.channels['7']) # G switch
+	
+		if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+			print(is_deepstalled)
+			vehicle.mode = VehicleMode("STABILIZE")
+			vehicle.channels.overrides['2'] = 1925
+			# if n_deepstall == 0:
+			start_time = time.time()
+			is_deepstalled = True
+			print("Deep stall!!!")	
+
+		if int(vehicle.channels['7']) < 1514:
+			is_deepstalled = False
+			vehicle.channels.overrides = {}
+			print("Pilot control")
+		
+		if int(vehicle.channels['7']) > 1514:
+			post_stall(start_time, row ,col, ratio_time)
 
 		
 		# if is_deepstalled == True:
@@ -99,24 +117,28 @@ def deepstall(is_deepstalled):
 		# else:
 		# 	vehicle.channels.overrides = {}
 		print("-------------------------------------\n")
+		# time.sleep(1)
 
 
-def toggle_deepstall(is_deepstalled):
+def toggle_deepstall(is_deepstalled, n):
 	print("ch7: ", vehicle.channels['7']) # G switch
-	if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+	print("n1: ", n)
+	if int(vehicle.channels['7']) > 1514 and n == 0: # toggle when enter auto mode
 		print(is_deepstalled)
 		vehicle.mode = VehicleMode("STABILIZE")
 		vehicle.channels.overrides['2'] = 1925
 		# if n_deepstall == 0:
 		start_time = time.time()
-		# n += 1
+		n = n+1
 		is_deepstalled = True
 		print("Deep stall!!!")	
-		return float(start_time)
+		print("n2: ", n)
+		return start_time, n
 	if int(vehicle.channels['7']) < 1514:
 		is_deepstalled = False
 		vehicle.channels.overrides = {}
 		print("Pilot control")
+
 
 def post_stall(start_time, row, col, ratio_time):
 	vehicle.channels.overrides['2'] = 1925
