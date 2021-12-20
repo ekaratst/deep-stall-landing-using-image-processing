@@ -116,7 +116,7 @@ def deepstall(is_deepstalled):
 		# 	print("Elevator up")
 		# else:
 		# 	vehicle.channels.overrides = {}
-		print("-------------------------------------\n")
+		print("-------------------------------------")
 		# time.sleep(1)
 
 
@@ -156,7 +156,7 @@ def post_stall(start_time, row, col, ratio_time):
 		row += 1
 		ratio_time += 1
 
-	if diff_time >= 10:
+	if diff_time >= 5:
 		workbook.close()
 	# time.sleep(0.5)
 
