@@ -50,7 +50,7 @@ vehicle.wait_ready('autopilot_version')
 isnot_deepstalled = True
 is_deepstalled = False
 
-def deepstall(is_deepstalled):
+def deepstall(is_deepstalled,row, col, ratio_time):
 	# print("Thread-2")
 	# start = time.time()
 	# lat = 13.8472679
@@ -108,7 +108,26 @@ def deepstall(is_deepstalled):
 			print("Pilot control")
 		
 		if int(vehicle.channels['7']) > 1514:
-			post_stall(start_time, row ,col, ratio_time)
+			# post_stall(start_time, row ,col, ratio_time)
+			vehicle.channels.overrides['2'] = 1925
+			post_stall_time = time.time()
+			print ("Groundspeed: %s" % vehicle.groundspeed)
+			diff_time = float(post_stall_time) - float(start_time)
+			# print(diff_time)
+
+			if diff_time >= 0.1 * ratio_time:
+				print(diff_time)
+				altitude = vehicle.location.global_relative_frame.alt
+				horizontal_distance  = 0.1 * vehicle.groundspeed
+				worksheet.write(row, col, altitude)
+				worksheet.write(row, col + 1, horizontal_distance)
+				row += 1
+				ratio_time += 1
+
+			if diff_time >= 5:
+				workbook.close()
+				print("end log!!")
+				time.sleep(1)
 
 		
 		# if is_deepstalled == True:
@@ -192,7 +211,7 @@ def get_distance_metres(aLocation1, aLocation2):
     return math.sqrt((dlat*dlat) + (dlong*dlong)) * 1.113195e5
 
 try:				
-	_thread.start_new_thread( deepstall, (is_deepstalled, ))
+	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, ))
  
 except:
 	print ("Error: unable to start thread")
