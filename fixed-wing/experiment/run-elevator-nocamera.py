@@ -53,23 +53,18 @@ is_deepstalled = False
 def deepstall(is_deepstalled,row, col, ratio_time):
 	# print("Thread-2")
 	# start = time.time()
-	# lat = 13.8472679
-	# lon = 100.5659160
-	# alt = 10
-	# targetWaypointLocation = LocationGlobalRelative(lat,lon,alt)
+	
+	lat = 13.8472679
+	lon = 100.5659160
+	alt = 10
+	target_waypoint_location = LocationGlobalRelative(lat,lon,alt)
+	# target_waypoint_location = vehicle.location.global_relative_frame
 	while True:
-		# if int(vehicle.channels['7']) > 1514:
-		# 	vehicle.channels.overrides = {}
-		# 	is_deepstalled = False
+		altitude_now = vehicle.location.global_relative_frame.alt
+		print("Alt: ", altitude_now)
 
-		# lat = vehicle.location.global_relative_frame.alt
-		# lon = vehicle.location.global_relative_frame.lon
-		# print("Global Location (relative altitude): %s" % vehicle.location.global_relative_frame)
-		# print("Deep stall using Altitude")
+		current_waypoint_location = vehicle.location.global_relative_frame
 		
-		# print("alttitude: ", alttitude)
-		vehicle.mode = VehicleMode("STABILIZE")
-		print("Mode:", vehicle.mode.name)
 		# if vehicle.location.global_relative_frame.lat <= 
 
 		# if int(vehicle.channels['6']) < 1514: # D switch
@@ -92,22 +87,25 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 		# else:
 
 		print("ch7: ", vehicle.channels['7']) # G switch
-	
+		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
 		if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
-			print(is_deepstalled)
-			vehicle.mode = VehicleMode("STABILIZE")
-			vehicle.channels.overrides['2'] = 1925
-			# if n_deepstall == 0:
-			start_time = time.time()
-			is_deepstalled = True
-			print("Deep stall!!!")	
+			
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 5:
+				poststall_waypoint_location = vehicle.location.global_relative_frame
+				print(is_deepstalled)
+				vehicle.mode = VehicleMode("FBWA")
+				vehicle.channels.overrides['2'] = 1925
+				# if n_deepstall == 0:
+				start_time = time.time()
+				is_deepstalled = True
+				print("Deep stall!!!")	
 
 		if int(vehicle.channels['7']) < 1514:
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
 			print("Pilot control")
 		
-		if int(vehicle.channels['7']) > 1514:
+		if int(vehicle.channels['7']) > 1514 and is_deepstalled:
 			# post_stall(start_time, row ,col, ratio_time)
 			vehicle.channels.overrides['2'] = 1925
 			post_stall_time = time.time()
@@ -117,26 +115,21 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 
 			if diff_time >= 0.1 * ratio_time:
 				print(diff_time)
-				altitude = vehicle.location.global_relative_frame.alt
-				horizontal_distance  = 0.1 * vehicle.groundspeed
-				worksheet.write(row, col, altitude)
+				current_altitude = vehicle.location.global_relative_frame.alt
+				# horizontal_distance  = 0.1 * vehicle.groundspeed
+				horizontal_distance = get_distance_metres(current_waypoint_location, poststall_waypoint_location)
+				worksheet.write(row, col, current_altitude)
 				worksheet.write(row, col + 1, horizontal_distance)
 				row += 1
 				ratio_time += 1
 
-			if diff_time >= 5:
+			if current_altitude <= 1 and int(vehicle.channels['7']) > 1514:
 				workbook.close()
 				print("end log!!")
-				time.sleep(1)
-
-		
-		# if is_deepstalled == True:
-		# 	vehicle.channels.overrides['2'] = 1925
-		# 	print("Elevator up")
-		# else:
-		# 	vehicle.channels.overrides = {}
+				
 		print("-------------------------------------")
-		# time.sleep(1)
+		time.sleep(1)
+	
 
 
 def toggle_deepstall(is_deepstalled, n):

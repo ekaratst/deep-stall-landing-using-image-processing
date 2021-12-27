@@ -7,7 +7,7 @@ import sys, time, math, threading
 #--- Define Tag
 id_to_find  = 72
 marker_size  = 10 #- [cm]
-timer_exit = 30
+timer_exit = 60*5
 
 def exit_program():
     print("cap release")
@@ -79,8 +79,8 @@ font = cv2.FONT_HERSHEY_PLAIN
 
     
 
-t = threading.Timer(timer_exit, exit_program)
-t.start()
+# t = threading.Timer(timer_exit, exit_program)
+# t.start()
 
 while True:
 
