@@ -69,6 +69,8 @@ cap = cv2.VideoCapture(0)
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640) #1280
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480) #720
 
+
+
 print("create file video")
 out = cv2.VideoWriter('video_test.avi', 
                          cv2.VideoWriter_fourcc(*'MJPG'),
@@ -86,7 +88,9 @@ while True:
 
 	#-- Read the camera frame
     ret, frame = cap.read()
-
+    
+    frame = cv2.rotate(frame, cv2.ROTATE_180)
+	
     #-- Convert in gray scale
     gray    = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) #-- remember, OpenCV stores color images in Blue, Green, Red
 

@@ -54,9 +54,9 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 	# print("Thread-2")
 	# start = time.time()
 	
-	lat = 13.8472679
-	lon = 100.5659160
-	alt = 10
+	lat = 13.8471222
+	lon = 100.5657742
+	alt = 0
 	target_waypoint_location = LocationGlobalRelative(lat,lon,alt)
 	# target_waypoint_location = vehicle.location.global_relative_frame
 	while True:
@@ -90,11 +90,11 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
 		if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
 			
-			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 5:
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 9:
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				print(is_deepstalled)
-				vehicle.mode = VehicleMode("FBWA")
-				vehicle.channels.overrides['2'] = 1925
+				vehicle.mode = VehicleMode("STABILIZE")
+				vehicle.channels.overrides['2'] = 1690
 				# if n_deepstall == 0:
 				start_time = time.time()
 				is_deepstalled = True
@@ -107,7 +107,7 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 		
 		if int(vehicle.channels['7']) > 1514 and is_deepstalled:
 			# post_stall(start_time, row ,col, ratio_time)
-			vehicle.channels.overrides['2'] = 1925
+			vehicle.channels.overrides['2'] = 1690
 			post_stall_time = time.time()
 			print ("Groundspeed: %s" % vehicle.groundspeed)
 			diff_time = float(post_stall_time) - float(start_time)
@@ -128,7 +128,7 @@ def deepstall(is_deepstalled,row, col, ratio_time):
 				print("end log!!")
 				
 		print("-------------------------------------")
-		time.sleep(1)
+		# time.sleep(1)
 	
 
 
