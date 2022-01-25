@@ -83,9 +83,9 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 		altitude_now = vehicle.location.global_relative_frame.alt
 		print("Alt: ", altitude_now)
 		current_waypoint_location = vehicle.location.global_relative_frame
-		print("ch7: ", vehicle.channels['7']) # G switch
+		print("ch8: ", vehicle.channels['8']) # G switch
 		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
-		if int(vehicle.channels['7']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
 			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 9:
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				print(is_deepstalled)
@@ -96,12 +96,12 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 				is_deepstalled = True
 				print("Deep stall!!!")	
 
-		if int(vehicle.channels['7']) < 1514:
+		if int(vehicle.channels['8']) < 1514:
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
 			print("Pilot control")
 		
-		if int(vehicle.channels['7']) > 1514 and is_deepstalled:
+		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			# post_stall(start_time, row ,col, ratio_time)
 			vehicle.channels.overrides['2'] = 2033
 			post_stall_time = time.time()
@@ -116,7 +116,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 				worksheet.write(row, col + 1, horizontal_distance)
 				row += 1
 				ratio_time += 1
-			if current_altitude <= 1 and int(vehicle.channels['7']) > 1514:
+			if current_altitude <= 1 and int(vehicle.channels['8']) > 1514:
 				workbook.close()
 				print("end log!!")
 				
@@ -213,8 +213,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 		#-- flare
 		key = cv2.waitKey(1) & 0xFF
 	
-		print("ch8: ", vehicle.channels['8'])
-		if (int(vehicle.channels['8']) > 1514) or (key == ord('q')):
+		print("ch7: ", vehicle.channels['7'])
+		if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
@@ -223,7 +223,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 
 def adjustElevator(trajectory_angle, is_deepstalled):
 	if vehicle.mode.name == "AUTO" and is_deepstalled:
-	# if int(vehicle.channels['7']) > 1514:
+	# if int(vehicle.channels['8']) > 1514:
 		if trajectory_angle >= simulate_angle[0]:
 			vehicle.channels.overrides['2'] = ch2in[0]
 			print("adjust elevator angle to: 3 deg")
