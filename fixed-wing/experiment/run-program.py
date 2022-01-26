@@ -86,11 +86,11 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 		print("ch8: ", vehicle.channels['8']) # G switch
 		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
 		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
-			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 9:
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 11: #9
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				print(is_deepstalled)
 				vehicle.mode = VehicleMode("STABILIZE")
-				vehicle.channels.overrides['2'] = 1805
+				vehicle.channels.overrides['2'] = 1740
 				# if n_deepstall == 0:
 				start_time = time.time()
 				is_deepstalled = True
@@ -103,7 +103,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 		
 		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			# post_stall(start_time, row ,col, ratio_time)
-			vehicle.channels.overrides['2'] = 1805
+			vehicle.channels.overrides['2'] = 1740
 			post_stall_time = time.time()
 			print ("Groundspeed: %s" % vehicle.groundspeed)
 			diff_time = float(post_stall_time) - float(start_time)
