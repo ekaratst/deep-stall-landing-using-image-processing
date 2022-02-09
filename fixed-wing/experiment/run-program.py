@@ -70,8 +70,9 @@ vehicle.wait_ready('autopilot_version')
 
 isnot_deepstalled = True
 is_deepstalled = False
+angle_to_be_adjusted = 1570
 
-def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
+def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
 	# print("Thread-2")
 	# start = time.time()
 	lat = 13.8471013
@@ -85,6 +86,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 		current_waypoint_location = vehicle.location.global_relative_frame
 		print("ch8: ", vehicle.channels['8']) # G switch
 		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
+
+		# -- Deep stall conditions
 		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
 			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9
 				poststall_waypoint_location = vehicle.location.global_relative_frame
@@ -96,12 +99,15 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 				is_deepstalled = True
 				print("Deep stall!!!")	
 
+		# -- Not stall
 		if int(vehicle.channels['8']) < 1514:
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
 			print("Pilot control")
 		
-		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+		# -- Post stall
+		current_altitude = vehicle.location.global_relative_frame.alt
+		if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
 			# post_stall(start_time, row ,col, ratio_time)
 			vehicle.channels.overrides['2'] = 1800
 			post_stall_time = time.time()
@@ -187,6 +193,12 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out):
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 		
+		# -- Adjust elevator angle
+		current_altitude = vehicle.location.global_relative_frame.alt
+		if current_altitude <= 10 and is_deepstalled:
+			vehicle.channels.overrides['2'] = angle_to_be_adjusted
+		
+
 		# else:
 		# 	if is_deepstalled:
 		# 		vehicle.channels.overrides['2'] = 2114
@@ -298,7 +310,7 @@ try:
 	out = cv2.VideoWriter(video_filename,
 							cv2.VideoWriter_fourcc(*'MJPG'),
 							10, size)			
-	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, cap, out,))
+	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, cap, out, angle_to_be_adjusted,))
  
 except:
 	print ("Error: unable to start thread")
