@@ -8,12 +8,16 @@ import cv2.aruco as aruco
 import sys, time, math, _thread, argparse
 import time
 import xlsxwriter
+import logging
 
 timestr = time.strftime("%Y-%m-%d_%H-%M-%S")
 print(timestr)
 
 workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
 worksheet = workbook.add_worksheet("My sheet")
+
+logging.basicConfig(filename='flight record/'+ timestr + '_flight_record_.log',  level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
+print("Created flight record.")
 
 row = 0
 col = 0
@@ -73,7 +77,7 @@ is_deepstalled = False
 angle_to_be_adjusted = 1800
 
 def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
-	# print("Thread-2")
+	# printfr("Thread-2")
 	# start = time.time()
 	lat = 13.8471013
 	lon = 100.5658087
@@ -82,39 +86,43 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 	# target_waypoint_location = vehicle.location.global_relative_frame
 	while True:
 		altitude_now = vehicle.location.global_relative_frame.alt
-		print("Alt: ", altitude_now)
+		printfr("-------------Check stall condition-------------")
+		printfr("Alt: ", altitude_now)
 		current_waypoint_location = vehicle.location.global_relative_frame
-		print("ch8: ", vehicle.channels['8']) # G switch
-		print("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
+		printfr("ch8: ", vehicle.channels['8']) # G switch
+		printfr("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
+		printfr("-------------------------------------")
 
 		# -- Deep stall conditions
 		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
 			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9
 				poststall_waypoint_location = vehicle.location.global_relative_frame
-				print(is_deepstalled)
+				printfr("is_deepstalled: ", is_deepstalled)
 				vehicle.mode = VehicleMode("STABILIZE")
 				vehicle.channels.overrides['2'] = 1800
 				# if n_deepstall == 0:
 				start_time = time.time()
 				is_deepstalled = True
-				print("Deep stall!!!")	
+				printfr("Deep stall!!!")	
 
 		# -- Not stall
 		if int(vehicle.channels['8']) < 1514:
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
-			print("Pilot control")
+			printfr("Pilot control")
 		
 		# -- Post stall
 		current_altitude = vehicle.location.global_relative_frame.alt
 		if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
+			printfr("-------------Post stall-------------")
 			# post_stall(start_time, row ,col, ratio_time)
 			vehicle.channels.overrides['2'] = 1800
 			post_stall_time = time.time()
-			print ("Groundspeed: %s" % vehicle.groundspeed)
+			printfr ("Groundspeed: %s" % vehicle.groundspeed)
 			diff_time = float(post_stall_time) - float(start_time)
 			if diff_time >= 0.1 * ratio_time:
-				print(diff_time)
+				printfr("excel log")
+				# printfr(diff_time)
 				current_altitude = vehicle.location.global_relative_frame.alt
 				# horizontal_distance  = 0.1 * vehicle.groundspeed
 				horizontal_distance = get_distance_metres(current_waypoint_location, poststall_waypoint_location)
@@ -124,9 +132,9 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				ratio_time += 1
 			if current_altitude <= 1 and int(vehicle.channels['8']) > 1514:
 				workbook.close()
-				print("end log!!")
+				printfr("end log!!")
 				
-		print("-------------------------------------")
+		printfr("-------------------------------------")
 		# time.sleep(1)
 		#-- detect and adjust
 			
@@ -167,9 +175,9 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			R_tc    = R_ct.T
 
 			#-- Get the attitude in terms of euler 321 (Needs to be flipped first)
-			roll_marker, pitch_marker, yaw_marker = rotationMatrixToEulerAngles(R_flip*R_tc)
+			roll_marker, pitch_marker, yaw_marker = rotation_matrix_to_euler_angles(R_flip*R_tc)
 
-			#-- Print the marker's attitude respect to camera frame
+			#-- printfr the marker's attitude respect to camera frame
 			str_attitude = "MARKER Attitude r=%4.0f  p=%4.0f  y=%4.0f"%(math.degrees(roll_marker),math.degrees(pitch_marker),
 								math.degrees(yaw_marker))
 			cv2.putText(frame, str_attitude, (0, 150), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
@@ -182,7 +190,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			cv2.putText(frame, str_position, (0, 200), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
 			#-- Get the attitude of the camera respect to the frame
-			roll_camera, pitch_camera, yaw_camera = rotationMatrixToEulerAngles(R_flip*R_tc)
+			roll_camera, pitch_camera, yaw_camera = rotation_matrix_to_euler_angles(R_flip*R_tc)
 			str_attitude = "CAMERA Attitude r=%4.0f  p=%4.0f  y=%4.0f"%(math.degrees(roll_camera),math.degrees(pitch_camera),
 								math.degrees(yaw_camera))
 			cv2.putText(frame, str_attitude, (0, 250), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
@@ -196,15 +204,16 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		# -- Adjust elevator angle
 		current_altitude = vehicle.location.global_relative_frame.alt
 		if current_altitude <= 10 and is_deepstalled:
+			printfr("Adjust angle after stall")
 			vehicle.channels.overrides['2'] = angle_to_be_adjusted
 		
 
 		# else:
 		# 	if is_deepstalled:
 		# 		vehicle.channels.overrides['2'] = 2114
-		# 		print("Elevator up2")
+		# 		printfr("Elevator up2")
 
-			# adjustElevator(trajectory_angle, is_deepstalled)
+			# adjust_elevator(trajectory_angle, is_deepstalled)
 			
 		# else:
 		# 	vehicle.channels.overrides['2'] = 1500
@@ -225,41 +234,46 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		#-- flare
 		key = cv2.waitKey(1) & 0xFF
 		current_altitude = vehicle.location.global_relative_frame.alt
-		print("ch7: ", vehicle.channels['7'])
+		# printfr("ch7: ", vehicle.channels['7'])
 		# if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
 		if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
 			cv2.destroyAllWindows()
+			printfr("Saved video")
 			break	
 
-def adjustElevator(trajectory_angle, is_deepstalled):
+def printfr(str):
+	print(str)
+	logging.info(str)
+
+def adjust_elevator(trajectory_angle, is_deepstalled):
 	if vehicle.mode.name == "AUTO" and is_deepstalled:
 	# if int(vehicle.channels['8']) > 1514:
 		if trajectory_angle >= simulate_angle[0]:
 			vehicle.channels.overrides['2'] = ch2in[0]
-			print("adjust elevator angle to: 3 deg")
+			printfr("adjust elevator angle to: 3 deg")
 		elif trajectory_angle >= simulate_angle[1]:
 			vehicle.channels.overrides['2'] = ch2in[1]
-			print("adjust elevator angle to: 0 deg")
+			printfr("adjust elevator angle to: 0 deg")
 		elif trajectory_angle >= simulate_angle[2]:
 			vehicle.channels.overrides['2'] = ch2in[2]
-			print("adjust elevator angle to: -5 deg")
+			printfr("adjust elevator angle to: -5 deg")
 		elif trajectory_angle >= simulate_angle[3]:
 			vehicle.channels.overrides['2'] = ch2in[3]
-			print("adjust elevator angle to: -10 deg")
+			printfr("adjust elevator angle to: -10 deg")
 		elif trajectory_angle >= simulate_angle[4]:
 			vehicle.channels.overrides['2'] = ch2in[4]
-			print("adjust elevator angle to: -15 deg")
+			printfr("adjust elevator angle to: -15 deg")
 		else:
 			vehicle.channels.overrides['2'] = ch2in[5]
-			print("adjust elevator angle to: -20 deg")
+			printfr("adjust elevator angle to: -20 deg")
 		# else:
 		# 	vehicle.channels.overrides['2'] = 1911
-		# 	print("adjust elevator angle to: -25 deg")
+		# 	printfr("adjust elevator angle to: -25 deg")
 
-def isRotationMatrix(R):
+def is_rotation_matrix(R):
     Rt = np.transpose(R)
     shouldBeIdentity = np.dot(Rt, R)
     I = np.identity(3, dtype=R.dtype)
@@ -270,8 +284,8 @@ def isRotationMatrix(R):
 # Calculates rotation matrix to euler angles
 # The result is the same as MATLAB except the order
 # of the euler angles ( x and z are swapped ).
-def rotationMatrixToEulerAngles(R):
-    assert (isRotationMatrix(R))
+def rotation_matrix_to_euler_angles(R):
+    assert (is_rotation_matrix(R))
 
     sy = math.sqrt(R[0, 0] * R[0, 0] + R[1, 0] * R[1, 0])
 
@@ -301,7 +315,7 @@ try:
 	cap = cv2.VideoCapture(0)
 
 	if (cap.isOpened() == False):
-		print("Error reading video file")
+		printfr("Error reading video file")
 		
 	frame_width = int(cap.get(3))
 	frame_height = int(cap.get(4))
@@ -310,11 +324,13 @@ try:
 	
 	out = cv2.VideoWriter(video_filename,
 							cv2.VideoWriter_fourcc(*'MJPG'),
-							10, size)			
+							10, size)	
+
+	printfr(timestr)		
 	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, cap, out, angle_to_be_adjusted,))
  
 except:
-	print ("Error: unable to start thread")
+	printfr ("Error: unable to start thread")
 
 while 1:
 	pass
