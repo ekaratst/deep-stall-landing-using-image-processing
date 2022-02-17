@@ -68,9 +68,7 @@ R_flip[2,2] =-1.0
 aruco_dict  = aruco.getPredefinedDictionary(aruco.DICT_ARUCO_ORIGINAL)
 parameters  = aruco.DetectorParameters_create()
 
-print('Connecting to Vehicle on: %s' %connection_string)
-vehicle = connect(connection_string, baud=baud_rate, wait_ready=True)
-vehicle.wait_ready('autopilot_version')
+
 
 isnot_deepstalled = True
 is_deepstalled = False
@@ -87,18 +85,18 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 	while True:
 		altitude_now = vehicle.location.global_relative_frame.alt
 		printfr("-------------Check stall condition-------------")
-		printfr("Alt: ", altitude_now)
+		printfr("Alt: " + str(altitude_now))
 		current_waypoint_location = vehicle.location.global_relative_frame
-		printfr("ch8: ", vehicle.channels['8']) # G switch
-		printfr("distance: ", get_distance_metres(current_waypoint_location, target_waypoint_location))
-		printfr("-------------------------------------")
+		printfr("ch8: " + str(vehicle.channels['8'])) # G switch
+		printfr("distance: " + str(get_distance_metres(current_waypoint_location, target_waypoint_location)))
+		# printfr("-------------------------------------")
 
 		# -- Deep stall conditions
 		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
 			printfr("Waiting for reach target...")
 			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9
 				poststall_waypoint_location = vehicle.location.global_relative_frame
-				printfr("is_deepstalled: ", is_deepstalled)
+				printfr("is_deepstalled: " + str(is_deepstalled))
 				vehicle.mode = VehicleMode("STABILIZE")
 				vehicle.channels.overrides['2'] = 1800
 				# if n_deepstall == 0:
@@ -119,7 +117,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			# post_stall(start_time, row ,col, ratio_time)
 			vehicle.channels.overrides['2'] = 1800
 			post_stall_time = time.time()
-			printfr ("Groundspeed: %s" % vehicle.groundspeed)
+			printfr("Groundspeed: " + str(vehicle.groundspeed))
 			diff_time = float(post_stall_time) - float(start_time)
 			if diff_time >= 0.1 * ratio_time:
 				printfr("excel log")
@@ -135,7 +133,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				workbook.close()
 				printfr("end log!!")
 				
-		printfr("-------------------------------------")
+		# printfr("-------------------------------------")
 		# time.sleep(1)
 		#-- detect and adjust
 			
@@ -178,7 +176,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			#-- Get the attitude in terms of euler 321 (Needs to be flipped first)
 			roll_marker, pitch_marker, yaw_marker = rotation_matrix_to_euler_angles(R_flip*R_tc)
 
-			#-- printfr the marker's attitude respect to camera frame
+			#-- print the marker's attitude respect to camera frame
 			str_attitude = "MARKER Attitude r=%4.0f  p=%4.0f  y=%4.0f"%(math.degrees(roll_marker),math.degrees(pitch_marker),
 								math.degrees(yaw_marker))
 			cv2.putText(frame, str_attitude, (0, 150), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
@@ -237,6 +235,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		current_altitude = vehicle.location.global_relative_frame.alt
 		# printfr("ch7: ", vehicle.channels['7'])
 		# if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
+		# if key == ord('q'):
+	
 		if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
@@ -309,6 +309,9 @@ def get_distance_metres(aLocation1, aLocation2):
     return math.sqrt((dlat*dlat) + (dlong*dlong)) * 1.113195e5
 
 try:	
+	printfr('Connecting to Vehicle on: ' + str(connection_string))
+	vehicle = connect(connection_string, baud=baud_rate, wait_ready=True)
+	vehicle.wait_ready('autopilot_version')
 	# video_filename = "../../../Videos/ground/20-12-64_ground_test_" + args.number_of_run + ".avi"
 	video_filename = "../../../Videos/flight/" + timestr + ".avi"
 	# workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
@@ -316,7 +319,7 @@ try:
 	cap = cv2.VideoCapture(0)
 
 	if (cap.isOpened() == False):
-		printfr("Error reading video file")
+		print("Error reading video file")
 		
 	frame_width = int(cap.get(3))
 	frame_height = int(cap.get(4))
@@ -327,11 +330,11 @@ try:
 							cv2.VideoWriter_fourcc(*'MJPG'),
 							10, size)	
 
-	printfr(timestr)		
+	# printfr(timestr)		
 	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, cap, out, angle_to_be_adjusted,))
  
 except:
-	printfr ("Error: unable to start thread")
+	print("Error: unable to start thread")
 
 while 1:
 	pass
