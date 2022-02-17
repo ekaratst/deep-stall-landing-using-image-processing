@@ -237,8 +237,12 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		current_altitude = vehicle.location.global_relative_frame.alt
 		# print("ch7: ", vehicle.channels['7'])
 		# if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
+<<<<<<< HEAD
 		if key == ord('q'):
 		# if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
+=======
+		if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
+>>>>>>> f17a405df12198c399e10cc485dc2a956c37a123
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
