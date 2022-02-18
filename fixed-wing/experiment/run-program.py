@@ -72,7 +72,7 @@ parameters  = aruco.DetectorParameters_create()
 
 isnot_deepstalled = True
 is_deepstalled = False
-angle_to_be_adjusted = 1800
+angle_to_be_adjusted = 1670
 
 def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
 	# printfr("Thread-2")
@@ -201,10 +201,10 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 		
 		# -- Adjust elevator angle
-		current_altitude = vehicle.location.global_relative_frame.alt
-		if current_altitude <= 10 and is_deepstalled:
-			printfr("Adjust angle after stall")
-			vehicle.channels.overrides['2'] = angle_to_be_adjusted
+		# current_altitude = vehicle.location.global_relative_frame.alt
+		# if current_altitude <= 10 and is_deepstalled:
+		# 	printfr("Adjust angle after stall")
+		# 	vehicle.channels.overrides['2'] = angle_to_be_adjusted
 		
 
 		# else:
@@ -235,9 +235,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		current_altitude = vehicle.location.global_relative_frame.alt
 		# printfr("ch7: ", vehicle.channels['7'])
 		# if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
-		# if key == ord('q'):
-	
-		if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
+		if key == ord('q'):
+		# if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
 			cap.release()
 			out.release()
