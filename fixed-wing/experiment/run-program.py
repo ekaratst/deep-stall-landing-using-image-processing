@@ -86,13 +86,16 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		altitude_now = vehicle.location.global_relative_frame.alt
 		printfr("-------------Check stall condition-------------")
 		printfr("Alt: " + str(altitude_now))
-		current_waypoint_location = vehicle.location.global_relative_frame
-		printfr("ch8: " + str(vehicle.channels['8'])) # G switch
+		# printfr("ch8: " + str(vehicle.channels['8'])) # G switch
 		printfr("distance: " + str(get_distance_metres(current_waypoint_location, target_waypoint_location)))
+		printfr("Mode: " + str(vehicle.mode.name))
 		# printfr("-------------------------------------")
 
 		# -- Deep stall conditions
-		if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+		# if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
+		current_waypoint_location = vehicle.location.global_relative_frame
+		if vehicle.mode.name == 'AUTO' and not is_deepstalled:
+			printfr("Changed mode to: " + str(vehicle.mode.name))
 			printfr("Waiting for reach target...")
 			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9
 				poststall_waypoint_location = vehicle.location.global_relative_frame
@@ -105,17 +108,27 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				printfr("Deep stall!!!")	
 
 		# -- Not stall
-		if int(vehicle.channels['8']) < 1514:
+		# if int(vehicle.channels['8']) < 1514:
+		if vehicle.mode.name != 'AUTO':
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
 			printfr("Pilot control")
 		
 		# -- Post stall
 		current_altitude = vehicle.location.global_relative_frame.alt
-		if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
-			printfr("-------------Post stall-------------")
-			# post_stall(start_time, row ,col, ratio_time)
-			vehicle.channels.overrides['2'] = 1800
+		# if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
+		if vehicle.mode.name == 'AUTO' and is_deepstalled:
+			if current_altitude > 10:
+				printfr("-------------Post stall-------------")
+				# post_stall(start_time, row ,col, ratio_time)
+				vehicle.channels.overrides['2'] = 1800
+				
+
+			# -- Adjust elevator angle
+			else:
+				printfr("Adjust angle after stall")
+				vehicle.channels.overrides['2'] = angle_to_be_adjusted
+			
 			post_stall_time = time.time()
 			printfr("Groundspeed: " + str(vehicle.groundspeed))
 			diff_time = float(post_stall_time) - float(start_time)
@@ -129,7 +142,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				worksheet.write(row, col + 1, horizontal_distance)
 				row += 1
 				ratio_time += 1
-			if current_altitude <= 1 and int(vehicle.channels['8']) > 1514:
+			if current_altitude <= 1:
 				workbook.close()
 				printfr("end log!!")
 				
@@ -199,13 +212,6 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			# trajectory_angle = abs(math.degrees(math.atan(alt/y_distance))) #by real distance
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
-		
-		# -- Adjust elevator angle
-		# current_altitude = vehicle.location.global_relative_frame.alt
-		# if current_altitude <= 10 and is_deepstalled:
-		# 	printfr("Adjust angle after stall")
-		# 	vehicle.channels.overrides['2'] = angle_to_be_adjusted
-		
 
 		# else:
 		# 	if is_deepstalled:
@@ -232,12 +238,12 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 
 		#-- flare
 		key = cv2.waitKey(1) & 0xFF
-		current_altitude = vehicle.location.global_relative_frame.alt
-		# printfr("ch7: ", vehicle.channels['7'])
-		# if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
-		if key == ord('q'):
+		# current_altitude = vehicle.location.global_relative_frame.alt
+		printfr("ch7: " + str(vehicle.channels['7']))
+		# if key == ord('q'):
 		# if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
 			# vehicle.channels.overrides['2'] = 1924
+		if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
 			cap.release()
 			out.release()
 			cv2.destroyAllWindows()
