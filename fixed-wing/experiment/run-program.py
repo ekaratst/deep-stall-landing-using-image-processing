@@ -72,7 +72,7 @@ parameters  = aruco.DetectorParameters_create()
 
 isnot_deepstalled = True
 is_deepstalled = False
-angle_to_be_adjusted = 1670
+angle_to_be_adjusted = 1800
 
 def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
 	# printfr("Thread-2")
@@ -87,17 +87,18 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		printfr("-------------Check stall condition-------------")
 		printfr("Alt: " + str(altitude_now))
 		# printfr("ch8: " + str(vehicle.channels['8'])) # G switch
+		current_waypoint_location = vehicle.location.global_relative_frame
 		printfr("distance: " + str(get_distance_metres(current_waypoint_location, target_waypoint_location)))
 		printfr("Mode: " + str(vehicle.mode.name))
 		# printfr("-------------------------------------")
 
 		# -- Deep stall conditions
 		# if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
-		current_waypoint_location = vehicle.location.global_relative_frame
-		if vehicle.mode.name == 'AUTO' and not is_deepstalled:
+		
+		if vehicle.mode.name == 'AUTO' and not is_deepstalled and int(vehicle.channels['8']) > 1514:
 			printfr("Changed mode to: " + str(vehicle.mode.name))
 			printfr("Waiting for reach target...")
-			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9, 25
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				printfr("is_deepstalled: " + str(is_deepstalled))
 				vehicle.mode = VehicleMode("STABILIZE")
@@ -105,11 +106,11 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				# if n_deepstall == 0:
 				start_time = time.time()
 				is_deepstalled = True
-				printfr("Deep stall!!!")	
+				printfr("-------------Deep stall!!!-------------")	
 
 		# -- Not stall
 		# if int(vehicle.channels['8']) < 1514:
-		if vehicle.mode.name != 'AUTO':
+		if vehicle.mode.name != 'AUTO' and int(vehicle.channels['8']) < 1514:
 			is_deepstalled = False
 			vehicle.channels.overrides = {}
 			printfr("Pilot control")
@@ -117,8 +118,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		# -- Post stall
 		current_altitude = vehicle.location.global_relative_frame.alt
 		# if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
-		if vehicle.mode.name == 'AUTO' and is_deepstalled:
-			if current_altitude > 10:
+		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+			if current_altitude > 10: #10
 				printfr("-------------Post stall-------------")
 				# post_stall(start_time, row ,col, ratio_time)
 				vehicle.channels.overrides['2'] = 1800
@@ -126,7 +127,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 
 			# -- Adjust elevator angle
 			else:
-				printfr("Adjust angle after stall")
+				printfr("-------------Adjust angle after stall-------------")
 				vehicle.channels.overrides['2'] = angle_to_be_adjusted
 			
 			post_stall_time = time.time()
