@@ -72,7 +72,7 @@ parameters  = aruco.DetectorParameters_create()
 
 isnot_deepstalled = True
 is_deepstalled = False
-angle_to_be_adjusted = 1800
+angle_to_be_adjusted = 1880
 
 def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
 	# printfr("Thread-2")
@@ -128,6 +128,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			# -- Adjust elevator angle
 			else:
 				printfr("-------------Adjust angle after stall-------------")
+				printfr(str(angle_to_be_adjusted))
 				vehicle.channels.overrides['2'] = angle_to_be_adjusted
 			
 			post_stall_time = time.time()
