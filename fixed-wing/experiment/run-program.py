@@ -72,7 +72,7 @@ parameters  = aruco.DetectorParameters_create()
 
 isnot_deepstalled = True
 is_deepstalled = False
-angle_to_be_adjusted = 1880
+angle_to_be_adjusted = 1712
 
 def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
 	# printfr("Thread-2")
