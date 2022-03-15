@@ -32,9 +32,9 @@ ratio_time = 0
 connection_string = "/dev/ttyACM0"
 baud_rate = 57600
 
-#-------------(deg) 3      0     -5     -10    -15   -20
-simulate_angle = [52.5, 49.82, 45.51, 40.33, 35.11, 28.86]
-ch2in = [1472, 1525, 1639, 1741, 1870, 2028]
+#-------------(deg) 0 -10 -20
+simulate_angle = [1, 9, 28]
+ch2in = [1515, 1712, 1880]
 delta_angle = [3, 0, -5, -10, -15, -20]
 
 # #1678 -> 10 deg
@@ -94,7 +94,11 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 
 		# -- Deep stall conditions
 		# if int(vehicle.channels['8']) > 1514 and not is_deepstalled: # toggle when enter auto mode
-		
+		if int(vehicle.channels['8']) < 1514:
+			is_deepstalled = False
+			vehicle.channels.overrides = {}
+			printfr("Pilot control")
+
 		if vehicle.mode.name == 'AUTO' and not is_deepstalled and int(vehicle.channels['8']) > 1514:
 			printfr("Changed mode to: " + str(vehicle.mode.name))
 			printfr("Waiting for reach target...")
@@ -217,6 +221,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
+		adjust_elevator(trajectory_angle, is_deepstalled)
+
 		# else:
 		# 	if is_deepstalled:
 		# 		vehicle.channels.overrides['2'] = 2114
@@ -259,29 +265,19 @@ def printfr(str):
 	logging.info(str)
 
 def adjust_elevator(trajectory_angle, is_deepstalled):
-	if vehicle.mode.name == "AUTO" and is_deepstalled:
-	# if int(vehicle.channels['8']) > 1514:
-		if trajectory_angle >= simulate_angle[0]:
-			vehicle.channels.overrides['2'] = ch2in[0]
-			printfr("adjust elevator angle to: 3 deg")
-		elif trajectory_angle >= simulate_angle[1]:
-			vehicle.channels.overrides['2'] = ch2in[1]
+	if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+		if trajectory_angle >= 1 and trajectory_angle <= 9:
+			vehicle.channels.overrides['2'] = 1515
 			printfr("adjust elevator angle to: 0 deg")
-		elif trajectory_angle >= simulate_angle[2]:
-			vehicle.channels.overrides['2'] = ch2in[2]
-			printfr("adjust elevator angle to: -5 deg")
-		elif trajectory_angle >= simulate_angle[3]:
-			vehicle.channels.overrides['2'] = ch2in[3]
+		if trajectory_angle > 9 and trajectory_angle <= 18:
+			vehicle.channels.overrides['2'] = 1712
 			printfr("adjust elevator angle to: -10 deg")
-		elif trajectory_angle >= simulate_angle[4]:
-			vehicle.channels.overrides['2'] = ch2in[4]
-			printfr("adjust elevator angle to: -15 deg")
-		else:
-			vehicle.channels.overrides['2'] = ch2in[5]
+		if trajectory_angle > 18 and trajectory_angle <= 38:
+			vehicle.channels.overrides['2'] = 1880
 			printfr("adjust elevator angle to: -20 deg")
-		# else:
-		# 	vehicle.channels.overrides['2'] = 1911
-		# 	printfr("adjust elevator angle to: -25 deg")
+		if trajectory_angle > 38:
+			vehicle.channels.overrides['2'] = 1930
+			printfr("adjust MAX elevator angle")
 
 def is_rotation_matrix(R):
     Rt = np.transpose(R)
