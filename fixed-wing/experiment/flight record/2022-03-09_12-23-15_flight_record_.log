@@ -1,0 +1,11 @@
+09/03/2022 12:23:15 Connecting to Vehicle on: /dev/ttyACM0
+09/03/2022 12:23:15 ArduPlane V4.1.4 (0f984409)
+09/03/2022 12:23:15 ChibiOS: 45395b6a
+09/03/2022 12:23:15 CubeBlack 00360049 3337510E 37353832
+09/03/2022 12:23:15 RCOut: PWM:1-12
+09/03/2022 12:23:15 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+09/03/2022 12:23:15 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+09/03/2022 12:23:26 -------------Check stall condition-------------
+09/03/2022 12:23:26 Alt: 0.038
+09/03/2022 12:23:26 distance: 33.96260160547838
+09/03/2022 12:23:26 Mode: STABILIZE
