@@ -120,37 +120,37 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			printfr("Pilot control")
 		
 		# -- Post stall
-		current_altitude = vehicle.location.global_relative_frame.alt
+		#current_altitude = vehicle.location.global_relative_frame.alt
 		# if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
-		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
-			if current_altitude > 10: #10
-				printfr("-------------Post stall-------------")
+		#if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+		#	if current_altitude > 10: #10
+		#		printfr("-------------Post stall-------------")
 				# post_stall(start_time, row ,col, ratio_time)
-				vehicle.channels.overrides['2'] = 1800
+		#		vehicle.channels.overrides['2'] = 1800
 				
 
 			# -- Adjust elevator angle
-			else:
-				printfr("-------------Adjust angle after stall-------------")
-				printfr(str(angle_to_be_adjusted))
-				vehicle.channels.overrides['2'] = angle_to_be_adjusted
+		#	else:
+		#		printfr("-------------Adjust angle after stall-------------")
+		#		printfr(str(angle_to_be_adjusted))
+		#		vehicle.channels.overrides['2'] = angle_to_be_adjusted
 			
-			post_stall_time = time.time()
-			printfr("Groundspeed: " + str(vehicle.groundspeed))
-			diff_time = float(post_stall_time) - float(start_time)
-			if diff_time >= 0.1 * ratio_time:
-				printfr("excel log")
+			#post_stall_time = time.time()
+			#printfr("Groundspeed: " + str(vehicle.groundspeed))
+			#diff_time = float(post_stall_time) - float(start_time)
+			#if diff_time >= 0.1 * ratio_time:
+		#		printfr("excel log")
 				# printfr(diff_time)
-				current_altitude = vehicle.location.global_relative_frame.alt
+			#	current_altitude = vehicle.location.global_relative_frame.alt
 				# horizontal_distance  = 0.1 * vehicle.groundspeed
-				horizontal_distance = get_distance_metres(current_waypoint_location, poststall_waypoint_location)
-				worksheet.write(row, col, current_altitude)
-				worksheet.write(row, col + 1, horizontal_distance)
-				row += 1
-				ratio_time += 1
-			if current_altitude <= 1:
-				workbook.close()
-				printfr("end log!!")
+			#	horizontal_distance = get_distance_metres(current_waypoint_location, poststall_waypoint_location)
+			#	worksheet.write(row, col, current_altitude)
+			#	worksheet.write(row, col + 1, horizontal_distance)
+			#	row += 1
+			#	ratio_time += 1
+			#if current_altitude <= 1:
+			#	workbook.close()
+			#	printfr("end log!!")
 				
 		# printfr("-------------------------------------")
 		# time.sleep(1)
@@ -221,7 +221,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-		adjust_elevator(trajectory_angle, is_deepstalled)
+			adjust_elevator(trajectory_angle, is_deepstalled)
 
 		# else:
 		# 	if is_deepstalled:
@@ -237,7 +237,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 		out.write(frame)
 
 		# --- Display the frame
-		cv2.imshow('frame', frame)
+		#cv2.imshow('frame', frame)
 
 		# key = cv2.waitKey(1) & 0xFF
 		# if key == ord('q'):
