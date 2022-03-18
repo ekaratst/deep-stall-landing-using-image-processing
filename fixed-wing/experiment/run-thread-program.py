@@ -167,8 +167,6 @@ def image_processing(cap, id_to_find, out):
 		#-- Read the camera frame
 		ret, frame = cap.read()
 
-		frame = cv2.rotate(frame)
-
 		#-- Convert in gray scale
 		gray    = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) #-- remember, OpenCV stores color images in Blue, Green, Red
 
