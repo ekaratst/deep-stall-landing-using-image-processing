@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
 from __future__ import print_function
+from tracemalloc import start
+from cv2 import Stitcher_ERR_CAMERA_PARAMS_ADJUST_FAIL
 from dronekit import connect, VehicleMode, LocationGlobalRelative
 import numpy as np
 import cv2
@@ -9,25 +11,29 @@ import sys, time, math, _thread, argparse
 import time
 import xlsxwriter
 import logging
+from datetime import datetime, timedelta
+
+INTERVAL = timedelta(seconds=3)
+last_checked = datetime.now() - INTERVAL
 
 timestr = time.strftime("%Y-%m-%d_%H-%M-%S")
 print(timestr)
 
-workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
-worksheet = workbook.add_worksheet("My sheet")
+# workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
+# worksheet = workbook.add_worksheet("My sheet")
 
 logging.basicConfig(filename='flight record/'+ timestr + '_flight_record_.log',  level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 print("Created flight record.")
 
-row = 0
-col = 0
+# row = 0
+# col = 0
 
-worksheet.write(row, col, "Altitude")
-worksheet.write(row, col + 1, "Horizontal distance")
+# worksheet.write(row, col, "Altitude")
+# worksheet.write(row, col + 1, "Horizontal distance")
 
-n = 0
+# n = 0
 
-row += 1
+# row += 1
 ratio_time = 0
 connection_string = "/dev/ttyACM0"
 baud_rate = 57600
@@ -68,18 +74,16 @@ R_flip[2,2] =-1.0
 aruco_dict  = aruco.getPredefinedDictionary(aruco.DICT_ARUCO_ORIGINAL)
 parameters  = aruco.DetectorParameters_create()
 
-
-
-isnot_deepstalled = True
 is_deepstalled = False
+is_find_id = False
 angle_to_be_adjusted = 1712
 
-def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjusted):
+def deepstall(is_deepstalled, angle_to_be_adjusted):
 	# printfr("Thread-2")
 	# start = time.time()
-	lat = 13.8471013
-	lon = 100.5658087
-	alt = 0
+	lat = 13.8471013 #13.8471013
+	lon = 100.5658087 #100.5658087
+	alt = 0 #0
 	target_waypoint_location = LocationGlobalRelative(lat,lon,alt)
 	# target_waypoint_location = vehicle.location.global_relative_frame
 	while True:
@@ -108,7 +112,7 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				vehicle.mode = VehicleMode("STABILIZE")
 				vehicle.channels.overrides['2'] = 1800
 				# if n_deepstall == 0:
-				start_time = time.time()
+				# start_time = time.time()
 				is_deepstalled = True
 				printfr("-------------Deep stall!!!-------------")	
 
@@ -154,8 +158,12 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 				
 		# printfr("-------------------------------------")
 		# time.sleep(1)
-		#-- detect and adjust
-			
+		#-- detect and adjust	
+
+def image_processing(cap, id_to_find, out):
+	is_detected = False
+	while True:
+
 		#-- Read the camera frame
 		ret, frame = cap.read()
 
@@ -169,7 +177,8 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 								cameraMatrix=camera_matrix, distCoeff=camera_distortion)
 		
 		if ids is not None and ids[0] == id_to_find:
-			
+			is_detected = True
+
 			#-- ret = [rvec, tvec, ?]
 			#-- array of rotation and position of each marker in camera frame
 			#-- rvec = [[rvec_1], [rvec_2], ...]    attitude of the marker respect to camera frame
@@ -221,39 +230,25 @@ def deepstall(is_deepstalled,row, col, ratio_time, cap, out, angle_to_be_adjuste
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-			adjust_elevator(trajectory_angle, is_deepstalled)
-			
+		if is_detected == True:
+			now = datetime.now()
+			if last_checked <= (now - INTERVAL):
+				last_checked = now
+				# print("last_checked: ", last_checked)
+				adjust_elevator(trajectory_angle, is_deepstalled)
+				is_detected = False
 
-		# else:
-		# 	if is_deepstalled:
-		# 		vehicle.channels.overrides['2'] = 2114
-		# 		printfr("Elevator up2")
-
-			# adjust_elevator(trajectory_angle, is_deepstalled)
-			
-		# else:
-		# 	vehicle.channels.overrides['2'] = 1500
 
 		# --- write video
 		out.write(frame)
 
 		# --- Display the frame
-		#cv2.imshow('frame', frame)
-
-		# key = cv2.waitKey(1) & 0xFF
-		# if key == ord('q'):
-		# 	cap.release()
-		# 	out.release()
-		# 	cv2.destroyAllWindows()
-		# 	break	
+		cv2.imshow('frame', frame)
 
 		#-- flare
 		key = cv2.waitKey(1) & 0xFF
 		# current_altitude = vehicle.location.global_relative_frame.alt
 		printfr("ch7: " + str(vehicle.channels['7']))
-		# if key == ord('q'):
-		# if ((current_altitude <= 1) and (int(vehicle.channels['8']) > 1514)) or (key == ord('q')):
-			# vehicle.channels.overrides['2'] = 1924
 		if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
 			cap.release()
 			out.release()
@@ -287,7 +282,6 @@ def is_rotation_matrix(R):
     n = np.linalg.norm(I - shouldBeIdentity)
     return n < 1e-6
 
-
 # Calculates rotation matrix to euler angles
 # The result is the same as MATLAB except the order
 # of the euler angles ( x and z are swapped ).
@@ -318,7 +312,7 @@ try:
 	printfr('Connecting to Vehicle on: ' + str(connection_string))
 	vehicle = connect(connection_string, baud=baud_rate, wait_ready=True)
 	vehicle.wait_ready('autopilot_version')
-	# video_filename = "../../../Videos/ground/20-12-64_ground_test_" + args.number_of_run + ".avi"
+
 	video_filename = "../../../Videos/flight/" + timestr + ".avi"
 	# workbook = xlsxwriter.Workbook("log/" + timestr + "_log.xlsx")
 
@@ -337,7 +331,8 @@ try:
 							10, size)	
 
 	# printfr(timestr)		
-	_thread.start_new_thread( deepstall, (is_deepstalled, row, col, ratio_time, cap, out, angle_to_be_adjusted,))
+	_thread.start_new_thread( image_processing, (cap, id_to_find, out,))
+	_thread.start_new_thread( deepstall, (is_deepstalled, angle_to_be_adjusted,))
 	
 
 
