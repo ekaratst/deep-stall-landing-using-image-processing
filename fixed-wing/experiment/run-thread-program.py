@@ -78,7 +78,8 @@ is_deepstalled = False
 is_find_id = False
 angle_to_be_adjusted = 1712
 
-def deepstall(is_deepstalled, angle_to_be_adjusted):
+def deepstall(angle_to_be_adjusted):
+	global is_deepstalled
 	# printfr("Thread-2")
 	# start = time.time()
 	lat = 13.8471013 #13.8471013
@@ -94,6 +95,7 @@ def deepstall(is_deepstalled, angle_to_be_adjusted):
 		current_waypoint_location = vehicle.location.global_relative_frame
 		printfr("distance: " + str(get_distance_metres(current_waypoint_location, target_waypoint_location)))
 		printfr("Mode: " + str(vehicle.mode.name))
+		printfr("is_deepstalled(deepstall): "+ str(is_deepstalled))
 		# printfr("-------------------------------------")
 
 		# -- Deep stall conditions
@@ -106,7 +108,7 @@ def deepstall(is_deepstalled, angle_to_be_adjusted):
 		if vehicle.mode.name == 'AUTO' and not is_deepstalled and int(vehicle.channels['8']) > 1514:
 			printfr("Changed mode to: " + str(vehicle.mode.name))
 			printfr("Waiting for reach target...")
-			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9, 25
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 1000: #9, 25
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				printfr("is_deepstalled: " + str(is_deepstalled))
 				vehicle.mode = VehicleMode("STABILIZE")
@@ -126,11 +128,11 @@ def deepstall(is_deepstalled, angle_to_be_adjusted):
 		# -- Post stall
 		#current_altitude = vehicle.location.global_relative_frame.alt
 		# if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
-		#if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 		#	if current_altitude > 10: #10
-		#		printfr("-------------Post stall-------------")
+			printfr("-------------Post stall-------------")
 				# post_stall(start_time, row ,col, ratio_time)
-		#		vehicle.channels.overrides['2'] = 1800
+			vehicle.channels.overrides['2'] = 1800
 				
 
 			# -- Adjust elevator angle
@@ -163,7 +165,8 @@ def deepstall(is_deepstalled, angle_to_be_adjusted):
 def image_processing(cap, id_to_find, out):
 	is_detected = False
 	while True:
-
+		
+		printfr("is_deepstalled(image_processing): "+ str(is_deepstalled))
 		#-- Read the camera frame
 		ret, frame = cap.read()
 
@@ -228,13 +231,15 @@ def image_processing(cap, id_to_find, out):
 			trajectory_angle = abs(math.degrees(math.atan(pos_camera[2]/pos_camera[1]))) #by camera distance
 			cv2.putText(frame, "tarjectory angle: %4.0f"%(trajectory_angle), (0, 300), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
-		if is_detected == True:
-			now = datetime.now()
-			if last_checked <= (now - INTERVAL):
-				last_checked = now
-				# print("last_checked: ", last_checked)
-				adjust_elevator(trajectory_angle, is_deepstalled)
-				is_detected = False
+			adjust_elevator(trajectory_angle)
+
+		# if is_detected == True:
+		# 	now = datetime.now()
+		# 	if last_checked <= (now - INTERVAL):
+		# 		last_checked = now
+		# 		# print("last_checked: ", last_checked)
+		# 		adjust_elevator(trajectory_angle, is_deepstalled)
+		# 		is_detected = False
 
 
 		# --- write video
@@ -258,20 +263,27 @@ def printfr(str):
 	print(str)
 	logging.info(str)
 
-def adjust_elevator(trajectory_angle, is_deepstalled):
+def adjust_elevator(trajectory_angle):
+	printfr("Check adjust elevator condition")
+	printfr("is_deepstalled(adjust_elevator): "+ str(is_deepstalled))
 	if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+		print("Tarjectory angle: " + str(trajectory_angle))
 		if trajectory_angle >= 1 and trajectory_angle <= 9:
 			vehicle.channels.overrides['2'] = 1515
 			printfr("adjust elevator angle to: 0 deg")
+			# time.sleep(1)
 		if trajectory_angle > 9 and trajectory_angle <= 18:
 			vehicle.channels.overrides['2'] = 1712
 			printfr("adjust elevator angle to: -10 deg")
+			# time.sleep(1)
 		if trajectory_angle > 18 and trajectory_angle <= 38:
 			vehicle.channels.overrides['2'] = 1880
 			printfr("adjust elevator angle to: -20 deg")
+			# time.sleep(1)
 		if trajectory_angle > 38:
 			vehicle.channels.overrides['2'] = 1930
 			printfr("adjust MAX elevator angle")
+			# time.sleep(1)
 
 def is_rotation_matrix(R):
     Rt = np.transpose(R)
@@ -329,8 +341,8 @@ try:
 							10, size)	
 
 	# printfr(timestr)		
-	_thread.start_new_thread( image_processing, (cap, id_to_find, out,))
-	_thread.start_new_thread( deepstall, (is_deepstalled, angle_to_be_adjusted,))
+	_thread.start_new_thread( image_processing, (cap, id_to_find, out, ))
+	_thread.start_new_thread( deepstall, (angle_to_be_adjusted,))
 	
 
 
