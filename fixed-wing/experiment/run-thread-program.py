@@ -108,7 +108,7 @@ def deepstall(angle_to_be_adjusted):
 		if vehicle.mode.name == 'AUTO' and not is_deepstalled and int(vehicle.channels['8']) > 1514:
 			printfr("Changed mode to: " + str(vehicle.mode.name))
 			printfr("Waiting for reach target...")
-			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 1000: #9, 25
+			if get_distance_metres(current_waypoint_location, target_waypoint_location) <= 25: #9, 25
 				poststall_waypoint_location = vehicle.location.global_relative_frame
 				printfr("is_deepstalled: " + str(is_deepstalled))
 				vehicle.mode = VehicleMode("STABILIZE")
