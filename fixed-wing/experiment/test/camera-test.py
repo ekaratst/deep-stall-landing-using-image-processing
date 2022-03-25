@@ -7,6 +7,7 @@ import cv2
 
 cap = cv2.VideoCapture(0)
 
+
 if (cap.isOpened() == False):
     print("Error reading video file")
 

@@ -1,0 +1,270 @@
+25/03/2022 14:14:40 Connecting to Vehicle on: /dev/ttyACM0
+25/03/2022 14:14:40 ArduPlane V4.1.4 (0f984409)
+25/03/2022 14:14:40 ChibiOS: 45395b6a
+25/03/2022 14:14:40 CubeBlack 00360049 3337510E 37353832
+25/03/2022 14:14:40 RCOut: PWM:1-12
+25/03/2022 14:14:40 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+25/03/2022 14:14:40 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+25/03/2022 14:14:50 is_deepstalled(image_processing): False
+25/03/2022 14:14:50 -------------Check stall condition-------------
+25/03/2022 14:14:50 Alt: -10.742
+25/03/2022 14:14:50 distance: 916.3245753387365
+25/03/2022 14:14:50 Mode: STABILIZE
+25/03/2022 14:14:50 is_deepstalled(deepstall): False
+25/03/2022 14:14:50 Pilot control
+25/03/2022 14:14:50 Pilot control
+25/03/2022 14:14:50 -------------Check stall condition-------------
+25/03/2022 14:14:50 Alt: -10.742
+25/03/2022 14:14:50 distance: 916.3245753387365
+25/03/2022 14:14:50 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.742
+25/03/2022 14:14:51 distance: 916.3245753387365
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.752
+25/03/2022 14:14:51 distance: 916.4214852539305
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.752
+25/03/2022 14:14:51 distance: 916.4214852539305
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.752
+25/03/2022 14:14:51 distance: 916.4214852539305
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.752
+25/03/2022 14:14:51 distance: 916.4214852539305
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.76
+25/03/2022 14:14:51 distance: 916.481640081489
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.762
+25/03/2022 14:14:51 distance: 916.5082033889431
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.762
+25/03/2022 14:14:51 distance: 916.5082033889431
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 Pilot control
+25/03/2022 14:14:51 -------------Check stall condition-------------
+25/03/2022 14:14:51 Alt: -10.748
+25/03/2022 14:14:51 distance: 916.4893672069018
+25/03/2022 14:14:51 Mode: STABILIZE
+25/03/2022 14:14:51 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.748
+25/03/2022 14:14:52 distance: 916.4893672069018
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.734
+25/03/2022 14:14:52 distance: 916.45486912263
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.734
+25/03/2022 14:14:52 distance: 916.45486912263
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.734
+25/03/2022 14:14:52 distance: 916.434449499209
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.728
+25/03/2022 14:14:52 distance: 916.434449499209
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.728
+25/03/2022 14:14:52 distance: 916.434449499209
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.723
+25/03/2022 14:14:52 distance: 916.4156166692378
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.723
+25/03/2022 14:14:52 distance: 916.4156166692378
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -10.723
+25/03/2022 14:14:52 distance: 916.4156166692378
+25/03/2022 14:14:52 Mode: STABILIZE
+25/03/2022 14:14:52 is_deepstalled(deepstall): False
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 Pilot control
+25/03/2022 14:14:52 -------------Check stall condition-------------
+25/03/2022 14:14:52 Alt: -9.955
+25/03/2022 14:14:52 distance: 916.4038242840328
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.955
+25/03/2022 14:14:53 distance: 916.4038242840328
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.955
+25/03/2022 14:14:53 distance: 916.4038242840328
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.908
+25/03/2022 14:14:53 distance: 916.3990734267384
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.889
+25/03/2022 14:14:53 distance: 916.3700389523334
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.889
+25/03/2022 14:14:53 distance: 916.3700389523334
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.889
+25/03/2022 14:14:53 distance: 916.3371302491094
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.886
+25/03/2022 14:14:53 distance: 916.3371302491094
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.886
+25/03/2022 14:14:53 distance: 916.3371302491094
+25/03/2022 14:14:53 Mode: STABILIZE
+25/03/2022 14:14:53 is_deepstalled(deepstall): False
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 Pilot control
+25/03/2022 14:14:53 -------------Check stall condition-------------
+25/03/2022 14:14:53 Alt: -9.89
+25/03/2022 14:14:53 distance: 916.2728951695727
+25/03/2022 14:14:54 Mode: STABILIZE
+25/03/2022 14:14:54 is_deepstalled(deepstall): False
+25/03/2022 14:14:54 Pilot control
+25/03/2022 14:14:54 Pilot control
+25/03/2022 14:14:54 -------------Check stall condition-------------
+25/03/2022 14:14:54 Alt: -9.89
+25/03/2022 14:14:54 distance: 916.2728951695727
+25/03/2022 14:14:54 Mode: STABILIZE
+25/03/2022 14:14:54 is_deepstalled(deepstall): False
+25/03/2022 14:14:54 Pilot control
+25/03/2022 14:14:54 Pilot control
+25/03/2022 14:14:54 -------------Check stall condition-------------
+25/03/2022 14:14:54 Alt: -9.89
+25/03/2022 14:14:54 distance: 916.2728951695727

@@ -1,0 +1,4088 @@
+25/03/2022 16:12:22 Connecting to Vehicle on: /dev/ttyACM0
+25/03/2022 16:12:22 ArduPlane V4.1.4 (0f984409)
+25/03/2022 16:12:22 ChibiOS: 45395b6a
+25/03/2022 16:12:22 CubeBlack 00360049 3337510E 37353832
+25/03/2022 16:12:22 RCOut: PWM:1-12
+25/03/2022 16:12:22 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+25/03/2022 16:12:22 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+25/03/2022 16:12:33 is_deepstalled(image_processing): False
+25/03/2022 16:12:33 -------------Check stall condition-------------
+25/03/2022 16:12:33 Alt: -0.026
+25/03/2022 16:12:33 Mode: STABILIZE
+25/03/2022 16:12:33 channel8: 965
+25/03/2022 16:12:33 Pilot control
+25/03/2022 16:12:33 -------------Check stall condition-------------
+25/03/2022 16:12:33 Alt: -0.026
+25/03/2022 16:12:33 Mode: STABILIZE
+25/03/2022 16:12:33 channel8: 965
+25/03/2022 16:12:33 Pilot control
+25/03/2022 16:12:33 -------------Check stall condition-------------
+25/03/2022 16:12:33 Alt: -0.026
+25/03/2022 16:12:33 Mode: STABILIZE
+25/03/2022 16:12:33 channel8: 965
+25/03/2022 16:12:33 Pilot control
+25/03/2022 16:12:33 -------------Check stall condition-------------
+25/03/2022 16:12:33 Alt: -0.026
+25/03/2022 16:12:33 Mode: STABILIZE
+25/03/2022 16:12:33 channel8: 965
+25/03/2022 16:12:33 Pilot control
+25/03/2022 16:12:33 -------------Check stall condition-------------
+25/03/2022 16:12:33 Alt: -0.026
+25/03/2022 16:12:33 Mode: STABILIZE
+25/03/2022 16:12:33 channel8: 965
+25/03/2022 16:12:33 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.069
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.069
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.069
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.069
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.087
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 ch7: 965
+25/03/2022 16:12:34 Alt: -0.087
+25/03/2022 16:12:34 is_deepstalled(image_processing): False
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.087
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.087
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 ch7: 965
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 is_deepstalled(image_processing): False
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 ch7: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 is_deepstalled(image_processing): False
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.101
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.11
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.11
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.11
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 ch7: 965
+25/03/2022 16:12:34 is_deepstalled(image_processing): False
+25/03/2022 16:12:34 Alt: -0.11
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 Alt: -0.11
+25/03/2022 16:12:34 Mode: STABILIZE
+25/03/2022 16:12:34 channel8: 965
+25/03/2022 16:12:34 Pilot control
+25/03/2022 16:12:34 -------------Check stall condition-------------
+25/03/2022 16:12:34 ch7: 965
+25/03/2022 16:12:34 Alt: -0.107
+25/03/2022 16:12:34 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.107
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.107
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.107
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.118
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.141
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.141
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.141
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.141
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:35 -------------Check stall condition-------------
+25/03/2022 16:12:35 Alt: -0.155
+25/03/2022 16:12:35 Mode: STABILIZE
+25/03/2022 16:12:35 ch7: 965
+25/03/2022 16:12:35 channel8: 965
+25/03/2022 16:12:35 is_deepstalled(image_processing): False
+25/03/2022 16:12:35 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.17
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.17
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.17
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.17
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.188
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Alt: -0.195
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.189
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.189
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.189
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 ch7: 965
+25/03/2022 16:12:36 Alt: -0.189
+25/03/2022 16:12:36 is_deepstalled(image_processing): False
+25/03/2022 16:12:36 Mode: STABILIZE
+25/03/2022 16:12:36 channel8: 965
+25/03/2022 16:12:36 Pilot control
+25/03/2022 16:12:36 -------------Check stall condition-------------
+25/03/2022 16:12:36 Alt: -0.189
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.189
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.189
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.189
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.102
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 Alt: -0.058
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.058
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.058
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.058
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.058
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.048
+25/03/2022 16:12:37 ch7: 965
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 is_deepstalled(image_processing): False
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:37 Pilot control
+25/03/2022 16:12:37 -------------Check stall condition-------------
+25/03/2022 16:12:37 Alt: -0.046
+25/03/2022 16:12:37 Mode: STABILIZE
+25/03/2022 16:12:37 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.046
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.046
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Alt: -0.046
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.046
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.049
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Alt: -0.049
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.049
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 Alt: -0.049
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.057
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.057
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Alt: -0.057
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.06
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 ch7: 965
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 is_deepstalled(image_processing): False
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:38 -------------Check stall condition-------------
+25/03/2022 16:12:38 Alt: -0.073
+25/03/2022 16:12:38 Mode: STABILIZE
+25/03/2022 16:12:38 channel8: 965
+25/03/2022 16:12:38 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.073
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.087
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.097
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.097
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.097
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.112
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.112
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.112
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 Alt: -0.112
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:39 Pilot control
+25/03/2022 16:12:39 -------------Check stall condition-------------
+25/03/2022 16:12:39 ch7: 965
+25/03/2022 16:12:39 Alt: -0.112
+25/03/2022 16:12:39 Mode: STABILIZE
+25/03/2022 16:12:39 is_deepstalled(image_processing): False
+25/03/2022 16:12:39 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.122
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.13
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 Alt: -0.133
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 ch7: 965
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 is_deepstalled(image_processing): False
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:40 -------------Check stall condition-------------
+25/03/2022 16:12:40 Alt: -0.132
+25/03/2022 16:12:40 Mode: STABILIZE
+25/03/2022 16:12:40 channel8: 965
+25/03/2022 16:12:40 Pilot control
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.132
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 965
+25/03/2022 16:12:41 Pilot control
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 is_deepstalled(image_processing): False
+25/03/2022 16:12:41 Alt: -0.132
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 965
+25/03/2022 16:12:41 Pilot control
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.132
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 965
+25/03/2022 16:12:41 Pilot control
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.132
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 965
+25/03/2022 16:12:41 Pilot control
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.132
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 965
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 Pilot control
+25/03/2022 16:12:41 is_deepstalled(image_processing): False
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.137
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.137
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.137
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.137
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.137
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 is_deepstalled(image_processing): False
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 is_deepstalled(image_processing): False
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.144
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 is_deepstalled(image_processing): False
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:41 Alt: -0.149
+25/03/2022 16:12:41 Mode: STABILIZE
+25/03/2022 16:12:41 channel8: 2065
+25/03/2022 16:12:41 ch7: 965
+25/03/2022 16:12:41 -------------Check stall condition-------------
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 ch7: 965
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 Alt: -0.146
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 ch7: 965
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.141
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.094
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.094
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.094
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.094
+25/03/2022 16:12:42 ch7: 965
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.094
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 ch7: 965
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 ch7: 965
+25/03/2022 16:12:42 Alt: -0.021
+25/03/2022 16:12:42 is_deepstalled(image_processing): False
+25/03/2022 16:12:42 Mode: STABILIZE
+25/03/2022 16:12:42 channel8: 2065
+25/03/2022 16:12:42 -------------Check stall condition-------------
+25/03/2022 16:12:42 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.067
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 ch7: 965
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 is_deepstalled(image_processing): False
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.145
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.145
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.145
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.145
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.145
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 ch7: 965
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 is_deepstalled(image_processing): False
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.216
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 ch7: 965
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 is_deepstalled(image_processing): False
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:43 channel8: 2065
+25/03/2022 16:12:43 -------------Check stall condition-------------
+25/03/2022 16:12:43 ch7: 965
+25/03/2022 16:12:43 Alt: 0.249
+25/03/2022 16:12:43 is_deepstalled(image_processing): False
+25/03/2022 16:12:43 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 ch7: 965
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 is_deepstalled(image_processing): False
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.274
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 ch7: 965
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 is_deepstalled(image_processing): False
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.296
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 ch7: 965
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 is_deepstalled(image_processing): False
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 ch7: 965
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 is_deepstalled(image_processing): False
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.28
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 ch7: 965
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 is_deepstalled(image_processing): False
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:44 Mode: STABILIZE
+25/03/2022 16:12:44 channel8: 2065
+25/03/2022 16:12:44 -------------Check stall condition-------------
+25/03/2022 16:12:44 Alt: 0.269
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.274
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.274
+25/03/2022 16:12:45 ch7: 965
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 is_deepstalled(image_processing): False
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.276
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.276
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.276
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 ch7: 965
+25/03/2022 16:12:45 Alt: 0.276
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 is_deepstalled(image_processing): False
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.282
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.282
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.282
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.282
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.282
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 ch7: 965
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 is_deepstalled(image_processing): False
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 Alt: 0.277
+25/03/2022 16:12:45 Mode: STABILIZE
+25/03/2022 16:12:45 channel8: 2065
+25/03/2022 16:12:45 Check adjust elevator condition
+25/03/2022 16:12:45 -------------Check stall condition-------------
+25/03/2022 16:12:45 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:46 Alt: 0.277
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 adjust MAX elevator angle
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.264
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.264
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.264
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 ch7: 965
+25/03/2022 16:12:46 Alt: 0.264
+25/03/2022 16:12:46 is_deepstalled(image_processing): False
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 Check adjust elevator condition
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 adjust MAX elevator angle
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 ch7: 965
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 is_deepstalled(image_processing): False
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.255
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 Check adjust elevator condition
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 adjust MAX elevator angle
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 ch7: 965
+25/03/2022 16:12:46 Alt: 0.249
+25/03/2022 16:12:46 is_deepstalled(image_processing): False
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 Check adjust elevator condition
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:46 Alt: 0.251
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:46 adjust MAX elevator angle
+25/03/2022 16:12:46 channel8: 2065
+25/03/2022 16:12:46 -------------Check stall condition-------------
+25/03/2022 16:12:46 Alt: 0.259
+25/03/2022 16:12:46 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 ch7: 965
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 is_deepstalled(image_processing): False
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.259
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.27
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 Check adjust elevator condition
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 adjust MAX elevator angle
+25/03/2022 16:12:47 Alt: 0.27
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.27
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 ch7: 965
+25/03/2022 16:12:47 is_deepstalled(image_processing): False
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.27
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.282
+25/03/2022 16:12:47 Check adjust elevator condition
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 adjust MAX elevator angle
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.284
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.284
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 Alt: 0.284
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:47 -------------Check stall condition-------------
+25/03/2022 16:12:47 ch7: 965
+25/03/2022 16:12:47 Alt: 0.284
+25/03/2022 16:12:47 is_deepstalled(image_processing): False
+25/03/2022 16:12:47 Mode: STABILIZE
+25/03/2022 16:12:47 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 Check adjust elevator condition
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 adjust MAX elevator angle
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.257
+25/03/2022 16:12:48 ch7: 965
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 is_deepstalled(image_processing): False
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.216
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 Check adjust elevator condition
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 adjust MAX elevator angle
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 ch7: 965
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 is_deepstalled(image_processing): False
+25/03/2022 16:12:48 Alt: 0.188
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 Check adjust elevator condition
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 adjust MAX elevator angle
+25/03/2022 16:12:48 Alt: 0.144
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.043
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 Alt: 0.043
+25/03/2022 16:12:48 Mode: STABILIZE
+25/03/2022 16:12:48 channel8: 2065
+25/03/2022 16:12:48 -------------Check stall condition-------------
+25/03/2022 16:12:48 ch7: 965
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 is_deepstalled(image_processing): False
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: 0.043
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 Check adjust elevator condition
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 adjust MAX elevator angle
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.151
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 ch7: 965
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 is_deepstalled(image_processing): False
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Check adjust elevator condition
+25/03/2022 16:12:49 Alt: -0.316
+25/03/2022 16:12:49 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 adjust MAX elevator angle
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.417
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.417
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 ch7: 965
+25/03/2022 16:12:49 Alt: -0.417
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:49 is_deepstalled(image_processing): False
+25/03/2022 16:12:49 channel8: 2065
+25/03/2022 16:12:49 -------------Check stall condition-------------
+25/03/2022 16:12:49 Alt: -0.417
+25/03/2022 16:12:49 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.503
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.503
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.503
+25/03/2022 16:12:50 Check adjust elevator condition
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 is_deepstalled(adjust_elevator): False
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 adjust MAX elevator angle
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 ch7: 965
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 is_deepstalled(image_processing): False
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.551
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 ch7: 965
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 is_deepstalled(image_processing): False
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 ch7: 965
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 is_deepstalled(image_processing): False
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.57
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 ch7: 965
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 is_deepstalled(image_processing): False
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:50 Alt: -0.588
+25/03/2022 16:12:50 ch7: 965
+25/03/2022 16:12:50 Mode: STABILIZE
+25/03/2022 16:12:50 channel8: 2065
+25/03/2022 16:12:50 is_deepstalled(image_processing): False
+25/03/2022 16:12:50 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.621
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.621
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.621
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 ch7: 965
+25/03/2022 16:12:51 Alt: -0.621
+25/03/2022 16:12:51 is_deepstalled(image_processing): False
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 ch7: 965
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 is_deepstalled(image_processing): False
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.641
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 ch7: 965
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 is_deepstalled(image_processing): False
+25/03/2022 16:12:51 Alt: -0.65
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.65
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.65
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.65
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 ch7: 965
+25/03/2022 16:12:51 Alt: -0.65
+25/03/2022 16:12:51 is_deepstalled(image_processing): False
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 ch7: 965
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 is_deepstalled(image_processing): False
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.661
+25/03/2022 16:12:51 Mode: STABILIZE
+25/03/2022 16:12:51 channel8: 2065
+25/03/2022 16:12:51 -------------Check stall condition-------------
+25/03/2022 16:12:51 Alt: -0.672
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 Alt: -0.672
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.672
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.672
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.672
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.672
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 Alt: -0.688
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.688
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.688
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.688
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.688
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.713
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.734
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.734
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 ch7: 965
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 is_deepstalled(image_processing): False
+25/03/2022 16:12:52 Alt: -0.734
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.734
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.734
+25/03/2022 16:12:52 Mode: STABILIZE
+25/03/2022 16:12:52 channel8: 2065
+25/03/2022 16:12:52 -------------Check stall condition-------------
+25/03/2022 16:12:52 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 Alt: -0.747
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 Alt: -0.757
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.783
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 ch7: 965
+25/03/2022 16:12:53 Alt: -0.81
+25/03/2022 16:12:53 is_deepstalled(image_processing): False
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:53 channel8: 2065
+25/03/2022 16:12:53 -------------Check stall condition-------------
+25/03/2022 16:12:53 Alt: -0.836
+25/03/2022 16:12:53 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.836
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.836
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 ch7: 965
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 is_deepstalled(image_processing): False
+25/03/2022 16:12:54 Alt: -0.836
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.836
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.836
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 ch7: 965
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 is_deepstalled(image_processing): False
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.853
+25/03/2022 16:12:54 ch7: 965
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 is_deepstalled(image_processing): False
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 ch7: 965
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 is_deepstalled(image_processing): False
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 ch7: 965
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 is_deepstalled(image_processing): False
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:54 Alt: -0.867
+25/03/2022 16:12:54 Mode: STABILIZE
+25/03/2022 16:12:54 channel8: 2065
+25/03/2022 16:12:54 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.869
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Alt: -0.869
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.869
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.869
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.869
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.435
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.21
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 ch7: 965
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 is_deepstalled(image_processing): False
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.156
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.155
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.155
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:55 -------------Check stall condition-------------
+25/03/2022 16:12:55 Alt: -0.155
+25/03/2022 16:12:55 Mode: STABILIZE
+25/03/2022 16:12:55 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.155
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 Alt: -0.155
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.155
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.155
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.155
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 Alt: -0.182
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.182
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.182
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.182
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.182
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 Alt: -0.215
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 is_deepstalled(image_processing): False
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:56 channel8: 2065
+25/03/2022 16:12:56 -------------Check stall condition-------------
+25/03/2022 16:12:56 Alt: -0.245
+25/03/2022 16:12:56 ch7: 965
+25/03/2022 16:12:56 Mode: STABILIZE
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 ch7: 965
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.27
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 ch7: 965
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 ch7: 965
+25/03/2022 16:12:57 Alt: -0.289
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.303
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 ch7: 965
+25/03/2022 16:12:57 Alt: -0.303
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.303
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.31
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 ch7: 965
+25/03/2022 16:12:57 Alt: -0.31
+25/03/2022 16:12:57 is_deepstalled(image_processing): False
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.31
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.319
+25/03/2022 16:12:57 Mode: STABILIZE
+25/03/2022 16:12:57 channel8: 2065
+25/03/2022 16:12:57 -------------Check stall condition-------------
+25/03/2022 16:12:57 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.319
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.333
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.341
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 ch7: 965
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 is_deepstalled(image_processing): False
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
+25/03/2022 16:12:58 Mode: STABILIZE
+25/03/2022 16:12:58 channel8: 2065
+25/03/2022 16:12:58 -------------Check stall condition-------------
+25/03/2022 16:12:58 Alt: -0.345
