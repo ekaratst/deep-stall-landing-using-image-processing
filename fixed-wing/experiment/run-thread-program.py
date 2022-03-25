@@ -76,7 +76,7 @@ parameters  = aruco.DetectorParameters_create()
 
 is_deepstalled = False
 is_find_id = False
-angle_to_be_adjusted = 1712
+angle_to_be_adjusted = 1515
 
 def deepstall(angle_to_be_adjusted):
 	global is_deepstalled
@@ -126,20 +126,20 @@ def deepstall(angle_to_be_adjusted):
 			printfr("Pilot control")
 		
 		# -- Post stall
-		#current_altitude = vehicle.location.global_relative_frame.alt
-		# if int(vehicle.channels['8']) > 1514 and is_deepstalled and current_altitude > 10:
+		current_altitude = vehicle.location.global_relative_frame.alt
 		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
-		#	if current_altitude > 10: #10
-			printfr("-------------Post stall-------------")
-				# post_stall(start_time, row ,col, ratio_time)
-			vehicle.channels.overrides['2'] = 1800
+			# if int(vehicle.channels['8']) > 1514 and is_deepstalled:
+			if current_altitude > 10: #10
+				printfr("-------------Post stall-------------")
+					# post_stall(start_time, row ,col, ratio_time)
+				vehicle.channels.overrides['2'] = 1800
 				
 
 			# -- Adjust elevator angle
-		#	else:
-		#		printfr("-------------Adjust angle after stall-------------")
-		#		printfr(str(angle_to_be_adjusted))
-		#		vehicle.channels.overrides['2'] = angle_to_be_adjusted
+			else:
+				printfr("-------------Adjust angle after stall-------------")
+				printfr(str(angle_to_be_adjusted))
+				vehicle.channels.overrides['2'] = angle_to_be_adjusted
 			
 			#post_stall_time = time.time()
 			#printfr("Groundspeed: " + str(vehicle.groundspeed))

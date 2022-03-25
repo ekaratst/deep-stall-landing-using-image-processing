@@ -1,0 +1,442 @@
+23/03/2022 12:43:52 Connecting to Vehicle on: /dev/ttyACM0
+23/03/2022 12:43:52 ArduPlane V4.1.4 (0f984409)
+23/03/2022 12:43:52 ChibiOS: 45395b6a
+23/03/2022 12:43:52 CubeBlack 00360049 3337510E 37353832
+23/03/2022 12:43:52 RCOut: PWM:1-12
+23/03/2022 12:43:52 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+23/03/2022 12:43:52 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+23/03/2022 12:44:03 is_deepstalled(image_processing): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.729188994768094
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.112
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.118
+23/03/2022 12:44:03 distance: 50.74279956733347
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.75188346303549
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.75188346303549
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.75188346303549
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.75188346303549
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 ch7: 2065
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.75188346303549
+23/03/2022 12:44:03 Saved video
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.122
+23/03/2022 12:44:03 distance: 50.76097549806133
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:03 is_deepstalled(deepstall): False
+23/03/2022 12:44:03 -------------Check stall condition-------------
+23/03/2022 12:44:03 Alt: 0.124
+23/03/2022 12:44:03 distance: 50.76097549806133
+23/03/2022 12:44:03 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.124
+23/03/2022 12:44:04 distance: 50.76097549806133
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.124
+23/03/2022 12:44:04 distance: 50.76097549806133
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.124
+23/03/2022 12:44:04 distance: 50.76097549806133
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.122
+23/03/2022 12:44:04 distance: 50.78478676438758
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.117
+23/03/2022 12:44:04 distance: 50.793897306546405
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.11
+23/03/2022 12:44:04 distance: 50.798455624030886
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.101
+23/03/2022 12:44:04 distance: 50.812142755787704
+23/03/2022 12:44:04 Mode: STABILIZE
+23/03/2022 12:44:04 is_deepstalled(deepstall): False
+23/03/2022 12:44:04 -------------Check stall condition-------------
+23/03/2022 12:44:04 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.812142755787704
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.101
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82127765420387
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.81569839110005
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.097
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
+23/03/2022 12:44:05 distance: 50.82027182204459
+23/03/2022 12:44:05 Mode: STABILIZE
+23/03/2022 12:44:05 is_deepstalled(deepstall): False
+23/03/2022 12:44:05 -------------Check stall condition-------------
+23/03/2022 12:44:05 Alt: 0.096
