@@ -1,0 +1,1080 @@
+28/03/2022 17:01:22 Connecting to Vehicle on: /dev/ttyACM0
+28/03/2022 17:01:22 ArduPlane V4.1.4 (0f984409)
+28/03/2022 17:01:22 ChibiOS: 45395b6a
+28/03/2022 17:01:22 CubeBlack 00360049 3337510E 37353832
+28/03/2022 17:01:22 RCOut: PWM:1-12
+28/03/2022 17:01:22 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+28/03/2022 17:01:22 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.05425928915896
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 70.27313421346084
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 70.27328648784051
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.77445653336957
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 73.36191599320738
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.76290023084712
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.9102720208922
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.98725565926343
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 73.21084862027713
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:43 Check adjust elevator condition
+28/03/2022 17:01:43 Tarjectory angle: 71.34000676921936
+28/03/2022 17:01:43 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 74.37151777771601
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 74.14900854450829
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 72.82876228914004
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 74.2492671333838
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 72.57288627200923
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 72.59446928747768
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 72.22415902771749
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 70.18133279106952
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:44 Check adjust elevator condition
+28/03/2022 17:01:44 Tarjectory angle: 70.94397601834085
+28/03/2022 17:01:44 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 69.63487069121872
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 70.82529133099308
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 71.99293344219745
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 71.90893967347516
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 71.99961179830838
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 73.57573260627198
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 74.60476663267869
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 73.24715602168918
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:50 Check adjust elevator condition
+28/03/2022 17:01:50 Tarjectory angle: 73.8620736285539
+28/03/2022 17:01:50 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 73.00297502953947
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 76.75517196810813
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 77.47087226384468
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 75.82996201219784
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 77.5442450464268
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 75.74714418222618
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 77.0965027194292
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 76.84065729674606
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 78.0371667276023
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:51 Check adjust elevator condition
+28/03/2022 17:01:51 Tarjectory angle: 72.63481850406868
+28/03/2022 17:01:51 adjust MAX elevator angle
+28/03/2022 17:01:58 Check adjust elevator condition
+28/03/2022 17:01:58 Tarjectory angle: 83.6197189416175
+28/03/2022 17:01:58 adjust MAX elevator angle
+28/03/2022 17:01:58 Check adjust elevator condition
+28/03/2022 17:01:58 Tarjectory angle: 83.00397093591728
+28/03/2022 17:01:58 adjust MAX elevator angle
+28/03/2022 17:01:58 Check adjust elevator condition
+28/03/2022 17:01:58 Tarjectory angle: 79.23313838087702
+28/03/2022 17:01:58 adjust MAX elevator angle
+28/03/2022 17:01:58 Check adjust elevator condition
+28/03/2022 17:01:58 Tarjectory angle: 76.94946437712568
+28/03/2022 17:01:58 adjust MAX elevator angle
+28/03/2022 17:01:58 Check adjust elevator condition
+28/03/2022 17:01:58 Tarjectory angle: 79.3984023436073
+28/03/2022 17:01:58 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 79.50931596745704
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 78.83459363789065
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 80.34350262183366
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 79.35467591636976
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 79.05492208883543
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 80.4875591512731
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 80.42930228906616
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 82.0809168295681
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 82.2291058936685
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 80.84938017477054
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:01:59 Check adjust elevator condition
+28/03/2022 17:01:59 Tarjectory angle: 79.49188302776243
+28/03/2022 17:01:59 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 81.04981536899889
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.93044030566186
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 79.47782221285523
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 79.00756764448185
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.39184400215547
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.19306706063722
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.10979118712618
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 79.67891847421171
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 81.04380204333273
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.98980713078632
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:00 Check adjust elevator condition
+28/03/2022 17:02:00 Tarjectory angle: 80.98226351259952
+28/03/2022 17:02:00 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 79.86156539171799
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 79.73669364943837
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 79.5263901094675
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 78.36573721067808
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 79.12691571644432
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:01 Check adjust elevator condition
+28/03/2022 17:02:01 Tarjectory angle: 77.18356844250826
+28/03/2022 17:02:01 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 62.60281966071932
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 68.58449613714458
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 72.9431928294693
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 79.07848269981908
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 77.51394165888327
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 76.2442358061922
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:30 Check adjust elevator condition
+28/03/2022 17:02:30 Tarjectory angle: 76.78187385300829
+28/03/2022 17:02:30 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 78.44933225577228
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 78.66281063727249
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 78.33174449173084
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 80.93813186033283
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 76.98259071516331
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 76.17755637261112
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:31 Check adjust elevator condition
+28/03/2022 17:02:31 Tarjectory angle: 74.03710162835077
+28/03/2022 17:02:31 adjust MAX elevator angle
+28/03/2022 17:02:36 Check adjust elevator condition
+28/03/2022 17:02:36 Tarjectory angle: 71.33402261900848
+28/03/2022 17:02:36 adjust MAX elevator angle
+28/03/2022 17:02:36 Check adjust elevator condition
+28/03/2022 17:02:36 Tarjectory angle: 70.23615220956776
+28/03/2022 17:02:36 adjust MAX elevator angle
+28/03/2022 17:02:36 Check adjust elevator condition
+28/03/2022 17:02:36 Tarjectory angle: 71.52794672488068
+28/03/2022 17:02:36 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.7067690198302
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 69.7485873975327
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.94857629037715
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.59565143050398
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 71.85000719771212
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.65828111170944
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 69.62942404421914
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.51482138967742
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 71.38749322726342
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 70.32099809289532
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:37 Check adjust elevator condition
+28/03/2022 17:02:37 Tarjectory angle: 71.37960187178999
+28/03/2022 17:02:37 adjust MAX elevator angle
+28/03/2022 17:02:38 Check adjust elevator condition
+28/03/2022 17:02:38 Tarjectory angle: 68.88070969710776
+28/03/2022 17:02:38 adjust MAX elevator angle
+28/03/2022 17:02:43 Check adjust elevator condition
+28/03/2022 17:02:43 Tarjectory angle: 73.56724191246273
+28/03/2022 17:02:43 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 73.69728784110441
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 72.424014192819
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 73.76031610036823
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 72.61106487593337
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 73.70365218766682
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 72.8932834362644
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 74.37827801422246
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 74.4330582760287
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 71.71960874655427
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:44 Check adjust elevator condition
+28/03/2022 17:02:44 Tarjectory angle: 74.01956712681105
+28/03/2022 17:02:44 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.93893795140448
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.64940852283199
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.84706607013092
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 72.55654998400682
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.87831585355899
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.83611075531134
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 72.55178170557849
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 72.3684579023869
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.565538028714
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:45 Check adjust elevator condition
+28/03/2022 17:02:45 Tarjectory angle: 73.27721605632318
+28/03/2022 17:02:45 adjust MAX elevator angle
+28/03/2022 17:02:46 Check adjust elevator condition
+28/03/2022 17:02:46 Tarjectory angle: 71.98210128894378
+28/03/2022 17:02:46 adjust MAX elevator angle
+28/03/2022 17:02:47 Check adjust elevator condition
+28/03/2022 17:02:47 Tarjectory angle: 77.8076326866507
+28/03/2022 17:02:47 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 77.36289352238578
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 77.92262216646779
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 77.23913114427901
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 77.51465669096693
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 77.5523887312424
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 78.739650865255
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 80.02572428261614
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 79.71805100625221
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 78.5923183098324
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 80.22782918045986
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 76.99359487558092
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:48 Check adjust elevator condition
+28/03/2022 17:02:48 Tarjectory angle: 80.88938293553804
+28/03/2022 17:02:48 adjust MAX elevator angle
+28/03/2022 17:02:49 Check adjust elevator condition
+28/03/2022 17:02:49 Tarjectory angle: 83.27941951395923
+28/03/2022 17:02:49 adjust MAX elevator angle
+28/03/2022 17:02:49 Check adjust elevator condition
+28/03/2022 17:02:49 Tarjectory angle: 83.65701839664956
+28/03/2022 17:02:49 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 82.63482123813743
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 81.58138887975183
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 81.39687198669509
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 81.94507339865508
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 81.98875572540102
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 80.51667004585684
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 80.59345058364495
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:52 Check adjust elevator condition
+28/03/2022 17:02:52 Tarjectory angle: 82.05932417812629
+28/03/2022 17:02:52 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 81.00163537892152
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 81.05832586120127
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 79.86125128753285
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 80.62741398486365
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 80.70407217832773
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 80.76854147707245
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 78.88854073009534
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 79.71498308352172
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 78.94851344921483
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 77.22808991178566
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 75.64928031217153
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:02:53 Check adjust elevator condition
+28/03/2022 17:02:53 Tarjectory angle: 73.16724167052583
+28/03/2022 17:02:53 adjust MAX elevator angle
+28/03/2022 17:03:19 Check adjust elevator condition
+28/03/2022 17:03:19 Tarjectory angle: 66.7506396343547
+28/03/2022 17:03:19 adjust MAX elevator angle
+28/03/2022 17:03:19 Check adjust elevator condition
+28/03/2022 17:03:19 Tarjectory angle: 64.9532454637399
+28/03/2022 17:03:19 adjust MAX elevator angle
+28/03/2022 17:03:19 Check adjust elevator condition
+28/03/2022 17:03:19 Tarjectory angle: 63.372411208969055
+28/03/2022 17:03:19 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 64.61056681378771
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 66.59413275953483
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 67.71544810409601
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 66.50687844439203
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 67.71618646628646
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 67.98954147642536
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 68.32816960004159
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 68.13945756329319
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 72.19072797870871
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 68.89841897183149
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:20 Check adjust elevator condition
+28/03/2022 17:03:20 Tarjectory angle: 68.85715435978182
+28/03/2022 17:03:20 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 70.239619050929
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 71.63443459566238
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 71.50385983592099
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 73.3906966272047
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 72.64741398464399
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 70.03380823957752
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 69.03151122678555
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 72.9153954498326
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 72.84443252089783
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 71.42576551878119
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 71.27536971509421
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:21 Check adjust elevator condition
+28/03/2022 17:03:21 Tarjectory angle: 71.15218901643993
+28/03/2022 17:03:21 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 71.06897405729964
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 69.7096188557511
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 70.83540150326924
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 70.23372783130688
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 71.84653949308354
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 72.97164683829874
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 70.10188701376782
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 70.47056650418837
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 72.42439502023852
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 73.96631455497499
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 75.21154858218713
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 73.57146059610325
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:22 Check adjust elevator condition
+28/03/2022 17:03:22 Tarjectory angle: 75.13866302629418
+28/03/2022 17:03:22 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 75.35231686235217
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 74.74456903786799
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 76.24831349718502
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 73.95233547114606
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 75.22366546616337
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 76.54345192743178
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 77.9797728066335
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 78.7480200267669
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 77.76093975261583
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 80.5661408334227
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 78.87388939386825
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 80.2638329288973
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:23 Check adjust elevator condition
+28/03/2022 17:03:23 Tarjectory angle: 76.50543508946576
+28/03/2022 17:03:23 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 76.63043129302015
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 74.75755286374995
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 75.44228559138297
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 77.25239611894388
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 75.85548022799314
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 78.08951137241131
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 75.86849698450608
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 79.3888787288299
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 75.77648046813133
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 76.03169711328773
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 79.73742319861088
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:24 Check adjust elevator condition
+28/03/2022 17:03:24 Tarjectory angle: 78.16717646987335
+28/03/2022 17:03:24 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 78.2541082552678
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 79.9966070046329
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 79.71057093082148
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 82.34370842997734
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 81.72515000573816
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 79.83079349017454
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 83.65212540519165
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Check adjust elevator condition
+28/03/2022 17:03:25 Tarjectory angle: 82.42319448642084
+28/03/2022 17:03:25 adjust MAX elevator angle
+28/03/2022 17:03:25 Pilot control
+28/03/2022 17:03:25 Pilot control
+28/03/2022 17:03:25 Pilot control
+28/03/2022 17:03:25 Pilot control
+28/03/2022 17:03:25 Pilot control
+28/03/2022 17:03:26 Pilot control
+28/03/2022 17:03:26 Pilot control
+28/03/2022 17:03:26 Pilot control
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 80.35028579379075
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 81.80077597086996
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 79.57761031367916
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 81.4544692771699
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 81.35841839967196
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 77.59617049361181
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 78.1714708799773
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:26 Check adjust elevator condition
+28/03/2022 17:03:26 Tarjectory angle: 80.68396243529247
+28/03/2022 17:03:26 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 79.09257616331382
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 78.89453726739923
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 78.97824213673665
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 80.77381894353495
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 77.24975860792208
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 80.11813090306634
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 82.15702772328441
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 79.84403895813904
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 80.14699434036226
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Check adjust elevator condition
+28/03/2022 17:03:27 Tarjectory angle: 82.10055087318204
+28/03/2022 17:03:27 adjust MAX elevator angle
+28/03/2022 17:03:27 Pilot control
+28/03/2022 17:03:27 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:28 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:29 Pilot control
+28/03/2022 17:03:30 Pilot control
+28/03/2022 17:03:30 Pilot control
+28/03/2022 17:03:30 Pilot control
+28/03/2022 17:03:30 Pilot control
+28/03/2022 17:03:30 Pilot control
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 78.20278732655477
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 77.51182049822646
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 74.48295406295236
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 75.06197337935268
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 73.39035814058983
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 73.36939462833176
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 73.81976484630492
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 73.92253019993088
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:32 Check adjust elevator condition
+28/03/2022 17:03:32 Tarjectory angle: 75.52353112816667
+28/03/2022 17:03:32 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.9127949167529
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.51354032144347
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.8073107634981
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.717534488939
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.77691505397074
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.58724257124717
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 75.15576369415598
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 73.60218266406409
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 72.27425670047501
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:33 Check adjust elevator condition
+28/03/2022 17:03:33 Tarjectory angle: 72.0838080518901
+28/03/2022 17:03:33 adjust MAX elevator angle
+28/03/2022 17:03:34 Check adjust elevator condition
+28/03/2022 17:03:34 Tarjectory angle: 70.19083435890359
+28/03/2022 17:03:34 adjust MAX elevator angle
+28/03/2022 17:03:34 Check adjust elevator condition
+28/03/2022 17:03:34 Tarjectory angle: 74.28903674560779
+28/03/2022 17:03:34 adjust MAX elevator angle
+28/03/2022 17:03:34 Check adjust elevator condition
+28/03/2022 17:03:34 Tarjectory angle: 72.19718234344047
+28/03/2022 17:03:34 adjust MAX elevator angle
+28/03/2022 17:03:34 Check adjust elevator condition
+28/03/2022 17:03:34 Tarjectory angle: 70.25188357601053
+28/03/2022 17:03:34 adjust MAX elevator angle
+28/03/2022 17:03:51 Pilot control
+28/03/2022 17:03:51 Pilot control
+28/03/2022 17:03:51 Pilot control
+28/03/2022 17:03:51 Pilot control
+28/03/2022 17:03:51 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:52 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:53 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:54 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:55 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:56 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:57 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:58 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:03:59 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:00 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:01 Pilot control
+28/03/2022 17:04:02 Pilot control
+28/03/2022 17:04:02 Pilot control
+28/03/2022 17:04:15 Pilot control
+28/03/2022 17:04:15 Pilot control
+28/03/2022 17:04:15 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:16 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:17 Pilot control
+28/03/2022 17:04:18 Pilot control

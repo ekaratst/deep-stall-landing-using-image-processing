@@ -1,0 +1,519 @@
+28/03/2022 17:07:37 Connecting to Vehicle on: /dev/ttyACM0
+28/03/2022 17:07:37 ArduPlane V4.1.4 (0f984409)
+28/03/2022 17:07:37 ChibiOS: 45395b6a
+28/03/2022 17:07:37 CubeBlack 00360049 3337510E 37353832
+28/03/2022 17:07:37 RCOut: PWM:1-12
+28/03/2022 17:07:37 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+28/03/2022 17:07:37 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+28/03/2022 17:07:48 Pilot control
+28/03/2022 17:07:49 Pilot control
+28/03/2022 17:07:49 Pilot control
+28/03/2022 17:07:49 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:50 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:51 Pilot control
+28/03/2022 17:07:52 Pilot control
+28/03/2022 17:07:52 Pilot control
+28/03/2022 17:07:52 Pilot control
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:52 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:53 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:54 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:55 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:56 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:57 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:58 Check adjust elevator condition
+28/03/2022 17:07:58 Tarjectory angle: 75.77721595056707
+28/03/2022 17:07:58 adjust MAX elevator angle
+28/03/2022 17:07:58 Pilot control + Computer
+28/03/2022 17:07:59 Check adjust elevator condition
+28/03/2022 17:07:59 Tarjectory angle: 75.61122263957104
+28/03/2022 17:07:59 adjust MAX elevator angle
+28/03/2022 17:07:59 Pilot control + Computer
+28/03/2022 17:07:59 Check adjust elevator condition
+28/03/2022 17:07:59 Tarjectory angle: 75.23019519700522
+28/03/2022 17:07:59 adjust MAX elevator angle
+28/03/2022 17:07:59 Pilot control + Computer
+28/03/2022 17:07:59 Check adjust elevator condition
+28/03/2022 17:07:59 Tarjectory angle: 71.14382552190564
+28/03/2022 17:07:59 adjust MAX elevator angle
+28/03/2022 17:07:59 Pilot control + Computer
+28/03/2022 17:08:00 Check adjust elevator condition
+28/03/2022 17:08:00 Tarjectory angle: 73.09022701051018
+28/03/2022 17:08:00 adjust MAX elevator angle
+28/03/2022 17:08:00 Pilot control + Computer
+28/03/2022 17:08:00 Check adjust elevator condition
+28/03/2022 17:08:00 Tarjectory angle: 74.25740626891724
+28/03/2022 17:08:00 adjust MAX elevator angle
+28/03/2022 17:08:00 Pilot control + Computer
+28/03/2022 17:08:00 Check adjust elevator condition
+28/03/2022 17:08:00 Tarjectory angle: 73.41082917554192
+28/03/2022 17:08:00 adjust MAX elevator angle
+28/03/2022 17:08:01 Pilot control + Computer
+28/03/2022 17:08:01 Check adjust elevator condition
+28/03/2022 17:08:01 Tarjectory angle: 72.3446430564764
+28/03/2022 17:08:01 adjust MAX elevator angle
+28/03/2022 17:08:01 Pilot control + Computer
+28/03/2022 17:08:01 Check adjust elevator condition
+28/03/2022 17:08:01 Tarjectory angle: 67.30448753060072
+28/03/2022 17:08:01 adjust MAX elevator angle
+28/03/2022 17:08:01 Pilot control + Computer
+28/03/2022 17:08:01 Pilot control + Computer
+28/03/2022 17:08:01 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:02 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:03 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:04 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:05 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:06 Pilot control + Computer
+28/03/2022 17:08:07 Pilot control + Computer
+28/03/2022 17:08:07 Check adjust elevator condition
+28/03/2022 17:08:07 Tarjectory angle: 70.86654027882192
+28/03/2022 17:08:07 adjust MAX elevator angle
+28/03/2022 17:08:07 Pilot control + Computer
+28/03/2022 17:08:07 Check adjust elevator condition
+28/03/2022 17:08:07 Tarjectory angle: 71.07847774287714
+28/03/2022 17:08:07 adjust MAX elevator angle
+28/03/2022 17:08:08 Pilot control + Computer
+28/03/2022 17:08:08 Check adjust elevator condition
+28/03/2022 17:08:08 Tarjectory angle: 71.2261223108656
+28/03/2022 17:08:08 adjust MAX elevator angle
+28/03/2022 17:08:08 Pilot control + Computer
+28/03/2022 17:08:08 Check adjust elevator condition
+28/03/2022 17:08:08 Tarjectory angle: 72.81385134159554
+28/03/2022 17:08:08 adjust MAX elevator angle
+28/03/2022 17:08:08 Pilot control + Computer
+28/03/2022 17:08:09 Check adjust elevator condition
+28/03/2022 17:08:09 Tarjectory angle: 72.67467068547803
+28/03/2022 17:08:09 adjust MAX elevator angle
+28/03/2022 17:08:09 Pilot control + Computer
+28/03/2022 17:08:09 Check adjust elevator condition
+28/03/2022 17:08:09 Tarjectory angle: 73.23682037424533
+28/03/2022 17:08:09 adjust MAX elevator angle
+28/03/2022 17:08:10 Pilot control + Computer
+28/03/2022 17:08:10 Check adjust elevator condition
+28/03/2022 17:08:10 Tarjectory angle: 74.64764677815658
+28/03/2022 17:08:10 adjust MAX elevator angle
+28/03/2022 17:08:10 Pilot control + Computer
+28/03/2022 17:08:11 Check adjust elevator condition
+28/03/2022 17:08:11 Tarjectory angle: 73.72061475375946
+28/03/2022 17:08:11 adjust MAX elevator angle
+28/03/2022 17:08:11 Pilot control + Computer
+28/03/2022 17:08:11 Check adjust elevator condition
+28/03/2022 17:08:11 Tarjectory angle: 73.24713205832086
+28/03/2022 17:08:11 adjust MAX elevator angle
+28/03/2022 17:08:11 Pilot control + Computer
+28/03/2022 17:08:11 Check adjust elevator condition
+28/03/2022 17:08:11 Tarjectory angle: 72.98060208828679
+28/03/2022 17:08:11 adjust MAX elevator angle
+28/03/2022 17:08:11 Pilot control + Computer
+28/03/2022 17:08:12 Check adjust elevator condition
+28/03/2022 17:08:12 Tarjectory angle: 72.51043921076759
+28/03/2022 17:08:12 adjust MAX elevator angle
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:12 Check adjust elevator condition
+28/03/2022 17:08:12 Tarjectory angle: 72.49174953867355
+28/03/2022 17:08:12 adjust MAX elevator angle
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:12 Check adjust elevator condition
+28/03/2022 17:08:12 Tarjectory angle: 71.90243420942251
+28/03/2022 17:08:12 adjust MAX elevator angle
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:12 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:13 Pilot control + Computer
+28/03/2022 17:08:14 Pilot control + Computer
+28/03/2022 17:08:14 Pilot control + Computer
+28/03/2022 17:08:14 Pilot control + Computer
+28/03/2022 17:08:14 Pilot control + Computer
+28/03/2022 17:08:14 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:15 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:16 Pilot control + Computer
+28/03/2022 17:08:17 Pilot control + Computer
+28/03/2022 17:08:17 Pilot control + Computer
+28/03/2022 17:08:17 Pilot control + Computer
+28/03/2022 17:08:17 Pilot control + Computer
+28/03/2022 17:08:17 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:18 Pilot control + Computer
+28/03/2022 17:08:19 Pilot control + Computer
+28/03/2022 17:08:19 Pilot control + Computer
+28/03/2022 17:08:19 Pilot control + Computer
+28/03/2022 17:08:19 Pilot control + Computer
+28/03/2022 17:08:19 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:20 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:21 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:22 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:23 Pilot control + Computer
+28/03/2022 17:08:24 Pilot control + Computer
+28/03/2022 17:08:24 Pilot control + Computer
+28/03/2022 17:08:24 Pilot control + Computer
+28/03/2022 17:08:24 Pilot control + Computer
+28/03/2022 17:08:24 Pilot control + Computer
+28/03/2022 17:08:25 Pilot control + Computer
+28/03/2022 17:08:25 Pilot control + Computer
+28/03/2022 17:08:25 Check adjust elevator condition
+28/03/2022 17:08:25 Tarjectory angle: 67.25204238257425
+28/03/2022 17:08:25 adjust MAX elevator angle
+28/03/2022 17:08:25 Pilot control + Computer
+28/03/2022 17:08:26 Check adjust elevator condition
+28/03/2022 17:08:26 Tarjectory angle: 66.24495849142666
+28/03/2022 17:08:26 adjust MAX elevator angle
+28/03/2022 17:08:26 Pilot control + Computer
+28/03/2022 17:08:26 Check adjust elevator condition
+28/03/2022 17:08:26 Tarjectory angle: 66.75691974873406
+28/03/2022 17:08:26 adjust MAX elevator angle
+28/03/2022 17:08:26 Pilot control + Computer
+28/03/2022 17:08:26 Check adjust elevator condition
+28/03/2022 17:08:26 Tarjectory angle: 66.61554793194603
+28/03/2022 17:08:26 adjust MAX elevator angle
+28/03/2022 17:08:27 Pilot control + Computer
+28/03/2022 17:08:27 Check adjust elevator condition
+28/03/2022 17:08:27 Tarjectory angle: 66.45539979637006
+28/03/2022 17:08:27 adjust MAX elevator angle
+28/03/2022 17:08:27 Pilot control + Computer
+28/03/2022 17:08:27 Check adjust elevator condition
+28/03/2022 17:08:27 Tarjectory angle: 66.76229200147843
+28/03/2022 17:08:27 adjust MAX elevator angle
+28/03/2022 17:08:27 Pilot control + Computer
+28/03/2022 17:08:28 Check adjust elevator condition
+28/03/2022 17:08:28 Tarjectory angle: 66.84293030721118
+28/03/2022 17:08:28 adjust MAX elevator angle
+28/03/2022 17:08:28 Pilot control + Computer
+28/03/2022 17:08:28 Pilot control + Computer
+28/03/2022 17:08:28 Pilot control + Computer
+28/03/2022 17:08:28 Pilot control + Computer
+28/03/2022 17:08:28 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:29 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:30 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:31 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:32 Pilot control + Computer
+28/03/2022 17:08:33 Pilot control + Computer
+28/03/2022 17:08:33 Pilot control + Computer
+28/03/2022 17:08:33 Check adjust elevator condition
+28/03/2022 17:08:33 Tarjectory angle: 77.99891351228581
+28/03/2022 17:08:33 adjust MAX elevator angle
+28/03/2022 17:08:33 Pilot control + Computer
+28/03/2022 17:08:33 Pilot control + Computer
+28/03/2022 17:08:33 Check adjust elevator condition
+28/03/2022 17:08:33 Tarjectory angle: 71.542296900186
+28/03/2022 17:08:33 adjust MAX elevator angle
+28/03/2022 17:08:33 Pilot control + Computer
+28/03/2022 17:08:33 Check adjust elevator condition
+28/03/2022 17:08:33 Tarjectory angle: 69.82087009003075
+28/03/2022 17:08:33 adjust MAX elevator angle
+28/03/2022 17:08:34 Pilot control + Computer
+28/03/2022 17:08:34 Check adjust elevator condition
+28/03/2022 17:08:34 Tarjectory angle: 71.35481528685018
+28/03/2022 17:08:34 adjust MAX elevator angle
+28/03/2022 17:08:34 Pilot control + Computer
+28/03/2022 17:08:35 Check adjust elevator condition
+28/03/2022 17:08:35 Tarjectory angle: 70.14445197887117
+28/03/2022 17:08:35 adjust MAX elevator angle
+28/03/2022 17:08:35 Pilot control + Computer
+28/03/2022 17:08:35 Check adjust elevator condition
+28/03/2022 17:08:35 Tarjectory angle: 71.2968593041764
+28/03/2022 17:08:35 adjust MAX elevator angle
+28/03/2022 17:08:35 Pilot control + Computer
+28/03/2022 17:08:36 Check adjust elevator condition
+28/03/2022 17:08:36 Tarjectory angle: 73.63365509372657
+28/03/2022 17:08:36 adjust MAX elevator angle
+28/03/2022 17:08:36 Pilot control + Computer
+28/03/2022 17:08:36 Check adjust elevator condition
+28/03/2022 17:08:36 Tarjectory angle: 68.57527459305138
+28/03/2022 17:08:36 adjust MAX elevator angle
+28/03/2022 17:08:36 Pilot control + Computer
+28/03/2022 17:08:36 Check adjust elevator condition
+28/03/2022 17:08:36 Tarjectory angle: 70.42357806448314
+28/03/2022 17:08:36 adjust MAX elevator angle
+28/03/2022 17:08:36 Pilot control + Computer
+28/03/2022 17:08:37 Check adjust elevator condition
+28/03/2022 17:08:37 Tarjectory angle: 71.76029915475725
+28/03/2022 17:08:37 adjust MAX elevator angle
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:37 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:38 Pilot control + Computer
+28/03/2022 17:08:39 Pilot control + Computer
+28/03/2022 17:08:39 Pilot control + Computer
+28/03/2022 17:08:39 Pilot control + Computer
+28/03/2022 17:08:39 Pilot control + Computer
+28/03/2022 17:08:39 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:40 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:41 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:42 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:43 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:44 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:45 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:46 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:47 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:48 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:49 Pilot control + Computer
+28/03/2022 17:08:50 Saved video
