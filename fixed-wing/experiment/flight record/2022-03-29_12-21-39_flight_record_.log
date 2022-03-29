@@ -1,0 +1,1936 @@
+29/03/2022 12:21:39 Connecting to Vehicle on: /dev/ttyACM0
+29/03/2022 12:21:39 ArduPlane V4.1.4 (0f984409)
+29/03/2022 12:21:39 ChibiOS: 45395b6a
+29/03/2022 12:21:39 CubeBlack 00360049 3337510E 37353832
+29/03/2022 12:21:39 RCOut: PWM:1-12
+29/03/2022 12:21:39 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+29/03/2022 12:21:39 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+29/03/2022 12:21:49 Pilot control
+29/03/2022 12:21:50 Pilot control
+29/03/2022 12:21:50 Pilot control
+29/03/2022 12:21:50 Pilot control
+29/03/2022 12:21:50 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:51 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:52 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:53 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:54 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:55 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:56 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:57 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:58 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:21:59 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:00 Pilot control
+29/03/2022 12:22:01 Pilot control
+29/03/2022 12:22:01 Pilot control
+29/03/2022 12:22:01 Pilot control
+29/03/2022 12:22:01 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:02 Pilot control
+29/03/2022 12:22:03 Pilot control
+29/03/2022 12:22:03 Pilot control
+29/03/2022 12:22:03 Pilot control
+29/03/2022 12:22:03 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:04 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:05 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:06 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:07 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:08 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:09 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:10 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:11 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:12 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:13 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:14 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:15 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:16 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:17 Pilot control
+29/03/2022 12:22:18 Pilot control
+29/03/2022 12:22:18 Pilot control
+29/03/2022 12:22:18 Pilot control
+29/03/2022 12:22:18 Pilot control
+29/03/2022 12:22:18 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:19 Pilot control
+29/03/2022 12:22:20 Pilot control
+29/03/2022 12:22:20 Pilot control
+29/03/2022 12:22:20 Pilot control
+29/03/2022 12:22:20 Pilot control
+29/03/2022 12:22:20 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:21 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:22 Pilot control
+29/03/2022 12:22:23 Pilot control
+29/03/2022 12:22:23 Pilot control
+29/03/2022 12:22:23 Pilot control
+29/03/2022 12:22:23 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:24 Pilot control
+29/03/2022 12:22:25 Pilot control
+29/03/2022 12:22:25 Pilot control
+29/03/2022 12:22:25 Pilot control
+29/03/2022 12:22:25 Pilot control
+29/03/2022 12:22:25 Pilot control
+29/03/2022 12:22:26 Pilot control
+29/03/2022 12:22:26 Pilot control
+29/03/2022 12:22:26 Pilot control
+29/03/2022 12:22:26 Pilot control
+29/03/2022 12:22:26 Pilot control
+29/03/2022 12:22:27 Pilot control
+29/03/2022 12:22:27 Pilot control
+29/03/2022 12:22:27 Pilot control
+29/03/2022 12:22:27 Pilot control
+29/03/2022 12:22:27 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:28 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:29 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:30 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:31 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:32 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:33 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:34 Pilot control
+29/03/2022 12:22:35 Pilot control
+29/03/2022 12:22:35 Pilot control
+29/03/2022 12:22:35 Pilot control
+29/03/2022 12:22:35 Pilot control
+29/03/2022 12:22:36 Pilot control
+29/03/2022 12:22:36 Pilot control
+29/03/2022 12:22:36 Pilot control
+29/03/2022 12:22:36 Pilot control
+29/03/2022 12:22:36 Pilot control
+29/03/2022 12:22:37 Pilot control
+29/03/2022 12:22:37 Pilot control
+29/03/2022 12:22:37 Throttle armed
+29/03/2022 12:22:37 Pilot control
+29/03/2022 12:22:37 Pilot control
+29/03/2022 12:22:38 Pilot control
+29/03/2022 12:22:38 Pilot control
+29/03/2022 12:22:38 Pilot control
+29/03/2022 12:22:38 Pilot control
+29/03/2022 12:22:38 Pilot control
+29/03/2022 12:22:39 Pilot control
+29/03/2022 12:22:39 Pilot control
+29/03/2022 12:22:40 Pilot control
+29/03/2022 12:22:40 Pilot control
+29/03/2022 12:22:40 Pilot control
+29/03/2022 12:22:40 Pilot control
+29/03/2022 12:22:40 Pilot control
+29/03/2022 12:22:41 Pilot control
+29/03/2022 12:22:41 Pilot control
+29/03/2022 12:22:41 Pilot control
+29/03/2022 12:22:41 Pilot control
+29/03/2022 12:22:41 Pilot control
+29/03/2022 12:22:42 Pilot control
+29/03/2022 12:22:42 Pilot control
+29/03/2022 12:22:42 Pilot control
+29/03/2022 12:22:42 Pilot control
+29/03/2022 12:22:42 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:43 Pilot control
+29/03/2022 12:22:44 Pilot control
+29/03/2022 12:22:44 Pilot control
+29/03/2022 12:22:44 Pilot control
+29/03/2022 12:22:44 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:45 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:46 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:47 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:48 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:49 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:50 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:51 Pilot control
+29/03/2022 12:22:52 Pilot control
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:52 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:53 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:54 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:55 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:56 Pilot control + Computer
+29/03/2022 12:22:57 Pilot control + Computer
+29/03/2022 12:22:57 Pilot control + Computer
+29/03/2022 12:22:57 Pilot control + Computer
+29/03/2022 12:22:58 Pilot control + Computer
+29/03/2022 12:22:58 Pilot control + Computer
+29/03/2022 12:22:58 Pilot control + Computer
+29/03/2022 12:22:58 Pilot control + Computer
+29/03/2022 12:22:58 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:22:59 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:00 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:01 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:02 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:03 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:04 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:05 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:06 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:07 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:08 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:09 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:10 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:11 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:12 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:13 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:14 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:15 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:16 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:17 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:18 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:19 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:20 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:21 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:22 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:23 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:24 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:25 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:26 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:27 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:28 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:29 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:30 Pilot control + Computer
+29/03/2022 12:23:31 Pilot control + Computer
+29/03/2022 12:23:31 Pilot control + Computer
+29/03/2022 12:23:31 Pilot control + Computer
+29/03/2022 12:23:32 Pilot control + Computer
+29/03/2022 12:23:32 Pilot control + Computer
+29/03/2022 12:23:32 Pilot control + Computer
+29/03/2022 12:23:32 Pilot control + Computer
+29/03/2022 12:23:32 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:33 Pilot control + Computer
+29/03/2022 12:23:34 Pilot control + Computer
+29/03/2022 12:23:34 Pilot control + Computer
+29/03/2022 12:23:34 Pilot control + Computer
+29/03/2022 12:23:34 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:35 Pilot control + Computer
+29/03/2022 12:23:36 Pilot control + Computer
+29/03/2022 12:23:36 Pilot control + Computer
+29/03/2022 12:23:36 Pilot control + Computer
+29/03/2022 12:23:37 Pilot control + Computer
+29/03/2022 12:23:37 Pilot control + Computer
+29/03/2022 12:23:37 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:38 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:39 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:40 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:41 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:42 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:43 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:44 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:45 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:46 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:47 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:48 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:49 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:50 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:51 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:52 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:53 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:54 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:55 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:56 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:57 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:58 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:23:59 Pilot control + Computer
+29/03/2022 12:24:00 Pilot control + Computer
+29/03/2022 12:24:00 Pilot control + Computer
+29/03/2022 12:24:00 Pilot control + Computer
+29/03/2022 12:24:00 Pilot control + Computer
+29/03/2022 12:24:00 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:01 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:02 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:03 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:04 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:05 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:06 Pilot control + Computer
+29/03/2022 12:24:07 Pilot control + Computer
+29/03/2022 12:24:07 Pilot control + Computer
+29/03/2022 12:24:07 Pilot control + Computer
+29/03/2022 12:24:08 Pilot control + Computer
+29/03/2022 12:24:08 Pilot control + Computer
+29/03/2022 12:24:08 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:09 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:10 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:11 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:12 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:13 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:14 Pilot control + Computer
+29/03/2022 12:24:15 Pilot control + Computer
+29/03/2022 12:24:15 Pilot control + Computer
+29/03/2022 12:24:15 Pilot control + Computer
+29/03/2022 12:24:15 Pilot control + Computer
+29/03/2022 12:24:15 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:16 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:17 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:18 Pilot control + Computer
+29/03/2022 12:24:19 Pilot control + Computer
+29/03/2022 12:24:19 Pilot control + Computer
+29/03/2022 12:24:19 Pilot control + Computer
+29/03/2022 12:24:19 Pilot control + Computer
+29/03/2022 12:24:19 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:20 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:21 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:22 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:23 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:24 Pilot control + Computer
+29/03/2022 12:24:25 Pilot control + Computer
+29/03/2022 12:24:25 Pilot control + Computer
+29/03/2022 12:24:25 Pilot control + Computer
+29/03/2022 12:24:25 Pilot control + Computer
+29/03/2022 12:24:25 Pilot control + Computer
+29/03/2022 12:24:25 Throttle disarmed
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:26 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:27 Pilot control + Computer
+29/03/2022 12:24:28 Pilot control + Computer
+29/03/2022 12:24:28 Pilot control + Computer
+29/03/2022 12:24:28 Pilot control + Computer
+29/03/2022 12:24:28 Pilot control + Computer
+29/03/2022 12:24:28 Pilot control + Computer
+29/03/2022 12:24:29 Pilot control + Computer
+29/03/2022 12:24:29 Pilot control + Computer
+29/03/2022 12:24:29 Pilot control + Computer
+29/03/2022 12:24:29 Pilot control + Computer
+29/03/2022 12:24:30 Pilot control + Computer
+29/03/2022 12:24:30 Pilot control + Computer
+29/03/2022 12:24:30 Pilot control + Computer
+29/03/2022 12:24:31 Pilot control + Computer
+29/03/2022 12:24:31 Pilot control + Computer
+29/03/2022 12:24:31 Pilot control + Computer
+29/03/2022 12:24:31 Pilot control + Computer
+29/03/2022 12:24:31 Pilot control + Computer
+29/03/2022 12:24:32 Pilot control + Computer
+29/03/2022 12:24:32 Pilot control + Computer
+29/03/2022 12:24:32 Pilot control + Computer
+29/03/2022 12:24:32 Pilot control + Computer
+29/03/2022 12:24:32 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:33 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:34 Pilot control + Computer
+29/03/2022 12:24:35 Pilot control + Computer
+29/03/2022 12:24:35 Pilot control + Computer
+29/03/2022 12:24:35 Pilot control + Computer
+29/03/2022 12:24:35 Pilot control + Computer
+29/03/2022 12:24:35 Pilot control + Computer
+29/03/2022 12:24:36 Pilot control + Computer
+29/03/2022 12:24:36 Pilot control + Computer
+29/03/2022 12:24:36 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:37 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:38 Pilot control + Computer
+29/03/2022 12:24:39 Pilot control + Computer
+29/03/2022 12:24:39 Pilot control + Computer
+29/03/2022 12:24:39 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:40 Pilot control + Computer
+29/03/2022 12:24:41 Pilot control + Computer
+29/03/2022 12:24:41 Pilot control + Computer
+29/03/2022 12:24:41 Pilot control + Computer
+29/03/2022 12:24:41 Pilot control + Computer
+29/03/2022 12:24:41 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:42 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:43 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:44 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:45 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:46 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:47 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:48 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:49 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:50 Pilot control + Computer
+29/03/2022 12:24:51 Pilot control + Computer
+29/03/2022 12:24:51 Pilot control + Computer
+29/03/2022 12:24:51 Pilot control + Computer
+29/03/2022 12:24:51 Pilot control + Computer
+29/03/2022 12:24:52 Pilot control + Computer
+29/03/2022 12:24:52 Pilot control + Computer
+29/03/2022 12:24:52 Pilot control + Computer
+29/03/2022 12:24:52 Pilot control + Computer
+29/03/2022 12:24:52 Pilot control + Computer
+29/03/2022 12:24:53 Pilot control + Computer
+29/03/2022 12:24:53 Pilot control + Computer
+29/03/2022 12:24:53 Pilot control + Computer
+29/03/2022 12:24:53 Pilot control + Computer
+29/03/2022 12:24:53 Pilot control + Computer
+29/03/2022 12:24:54 Pilot control + Computer
+29/03/2022 12:24:54 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:55 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:56 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:57 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:58 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:24:59 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:00 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:01 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:02 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:03 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:04 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:05 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:06 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:07 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:08 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:09 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:10 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:11 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:12 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:13 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:14 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:15 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:16 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:17 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:18 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:19 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:20 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:21 Pilot control + Computer
+29/03/2022 12:25:22 Pilot control + Computer
+29/03/2022 12:25:22 Pilot control + Computer
+29/03/2022 12:25:22 Pilot control + Computer
+29/03/2022 12:25:22 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:23 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:24 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:25 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:26 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:27 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:28 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:29 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:30 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:31 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:32 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:33 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:34 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:35 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:36 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:37 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:38 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:39 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:40 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:41 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:42 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:43 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:44 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:45 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:46 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:47 Pilot control + Computer
+29/03/2022 12:25:48 Pilot control + Computer
+29/03/2022 12:25:48 Pilot control + Computer
+29/03/2022 12:25:48 Pilot control + Computer
+29/03/2022 12:25:48 Pilot control + Computer
+29/03/2022 12:25:48 Pilot control + Computer
+29/03/2022 12:25:49 Pilot control + Computer
+29/03/2022 12:25:49 Pilot control + Computer
+29/03/2022 12:25:49 Pilot control + Computer
+29/03/2022 12:25:49 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:50 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:51 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:52 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:53 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:54 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:55 Pilot control + Computer
+29/03/2022 12:25:56 Pilot control + Computer
+29/03/2022 12:25:56 Pilot control + Computer
+29/03/2022 12:25:56 Pilot control + Computer
+29/03/2022 12:25:56 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:57 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:58 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:25:59 Pilot control + Computer
+29/03/2022 12:26:00 Pilot control + Computer
+29/03/2022 12:26:00 Pilot control + Computer
+29/03/2022 12:26:00 Pilot control + Computer
+29/03/2022 12:26:00 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:01 Pilot control + Computer
+29/03/2022 12:26:02 Saved video
