@@ -83,8 +83,8 @@ def deepstall():
 	
 	# printfr("Thread-2")
 	# start = time.time()
-	lat = 13.8471013 #13.8471013
-	lon = 100.5658087 #100.5658087
+	lat = 13.8472230 #13.8471013
+	lon = 100.5656008 #100.5658087
 	alt = 0 #0
 	target_waypoint_location = LocationGlobalRelative(lat,lon,alt)
 	# target_waypoint_location = vehicle.location.global_relative_frame

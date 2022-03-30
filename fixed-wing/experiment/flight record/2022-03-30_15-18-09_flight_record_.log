@@ -1,0 +1,638 @@
+30/03/2022 15:18:09 Connecting to Vehicle on: /dev/ttyACM0
+30/03/2022 15:18:10 ArduPlane V4.1.4 (0f984409)
+30/03/2022 15:18:10 ChibiOS: 45395b6a
+30/03/2022 15:18:10 CubeBlack 00360049 3337510E 37353832
+30/03/2022 15:18:10 RCOut: PWM:1-14
+30/03/2022 15:18:10 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+30/03/2022 15:18:10 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+30/03/2022 15:18:20 is_deepstalled(image_processing): False
+30/03/2022 15:18:20 -------------Check stall condition-------------
+30/03/2022 15:18:20 Alt: 0.603
+30/03/2022 15:18:20 distance: 22.09745911417703
+30/03/2022 15:18:20 Mode: STABILIZE
+30/03/2022 15:18:20 is_deepstalled(deepstall): False
+30/03/2022 15:18:20 angle to be adjusted: 1712
+30/03/2022 15:18:20 -------------Check stall condition-------------
+30/03/2022 15:18:20 Alt: 0.603
+30/03/2022 15:18:20 distance: 22.09745911417703
+30/03/2022 15:18:20 Mode: STABILIZE
+30/03/2022 15:18:20 is_deepstalled(deepstall): False
+30/03/2022 15:18:20 angle to be adjusted: 1712
+30/03/2022 15:18:20 -------------Check stall condition-------------
+30/03/2022 15:18:20 Alt: 0.603
+30/03/2022 15:18:20 distance: 22.09745911417703
+30/03/2022 15:18:20 Mode: STABILIZE
+30/03/2022 15:18:20 is_deepstalled(deepstall): False
+30/03/2022 15:18:20 angle to be adjusted: 1712
+30/03/2022 15:18:20 -------------Check stall condition-------------
+30/03/2022 15:18:20 Alt: 0.603
+30/03/2022 15:18:20 distance: 22.09745911417703
+30/03/2022 15:18:20 Mode: STABILIZE
+30/03/2022 15:18:20 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.603
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.661
+30/03/2022 15:18:21 distance: 22.075970415325664
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.705
+30/03/2022 15:18:21 distance: 22.081807535236727
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 ch7: 2065
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.739
+30/03/2022 15:18:21 distance: 22.122814701401175
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 Saved video
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.739
+30/03/2022 15:18:21 distance: 22.122814701401175
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.739
+30/03/2022 15:18:21 distance: 22.122814701401175
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.739
+30/03/2022 15:18:21 distance: 22.122814701401175
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.766
+30/03/2022 15:18:21 distance: 22.177529428408132
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.766
+30/03/2022 15:18:21 distance: 22.177529428408132
+30/03/2022 15:18:21 Mode: STABILIZE
+30/03/2022 15:18:21 is_deepstalled(deepstall): False
+30/03/2022 15:18:21 angle to be adjusted: 1712
+30/03/2022 15:18:21 -------------Check stall condition-------------
+30/03/2022 15:18:21 Alt: 0.766
+30/03/2022 15:18:22 distance: 22.177529428408132
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.766
+30/03/2022 15:18:22 distance: 22.177529428408132
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.245984267669616
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.79
+30/03/2022 15:18:22 distance: 22.321669445639706
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.829
+30/03/2022 15:18:22 distance: 22.321669445639706
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.829
+30/03/2022 15:18:22 distance: 22.321669445639706
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.829
+30/03/2022 15:18:22 distance: 22.321669445639706
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.829
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.838
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.838
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.838
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.838
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:22 Mode: STABILIZE
+30/03/2022 15:18:22 is_deepstalled(deepstall): False
+30/03/2022 15:18:22 angle to be adjusted: 1712
+30/03/2022 15:18:22 -------------Check stall condition-------------
+30/03/2022 15:18:22 Alt: 0.838
+30/03/2022 15:18:22 distance: 22.356996664955712
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.838
+30/03/2022 15:18:23 distance: 22.356996664955712
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.844
+30/03/2022 15:18:23 distance: 22.371267584982554
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.829
+30/03/2022 15:18:23 distance: 22.406123932399623
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.699
+30/03/2022 15:18:23 distance: 22.40932318194324
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.699
+30/03/2022 15:18:23 distance: 22.40932318194324
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.699
+30/03/2022 15:18:23 distance: 22.40932318194324
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.699
+30/03/2022 15:18:23 distance: 22.40932318194324
+30/03/2022 15:18:23 Mode: STABILIZE
+30/03/2022 15:18:23 is_deepstalled(deepstall): False
+30/03/2022 15:18:23 angle to be adjusted: 1712
+30/03/2022 15:18:23 -------------Check stall condition-------------
+30/03/2022 15:18:23 Alt: 0.699
+30/03/2022 15:18:24 distance: 22.40932318194324
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.699
+30/03/2022 15:18:24 distance: 22.40932318194324
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.254
+30/03/2022 15:18:24 distance: 22.366680606864122
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.254
+30/03/2022 15:18:24 distance: 22.366680606864122
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.254
+30/03/2022 15:18:24 distance: 22.366680606864122
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.254
+30/03/2022 15:18:24 distance: 22.366680606864122
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.254
+30/03/2022 15:18:24 distance: 22.366680606864122
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.148
+30/03/2022 15:18:24 distance: 22.325088950706533
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.135
+30/03/2022 15:18:24 distance: 22.265380499492586
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.135
+30/03/2022 15:18:24 distance: 22.265380499492586
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.171
+30/03/2022 15:18:24 distance: 22.1875430334753
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:24 -------------Check stall condition-------------
+30/03/2022 15:18:24 Alt: 0.171
+30/03/2022 15:18:24 distance: 22.1875430334753
+30/03/2022 15:18:24 Mode: STABILIZE
+30/03/2022 15:18:24 is_deepstalled(deepstall): False
+30/03/2022 15:18:24 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.171
+30/03/2022 15:18:25 distance: 22.1875430334753
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.171
+30/03/2022 15:18:25 distance: 22.1875430334753
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.228
+30/03/2022 15:18:25 distance: 22.10971177946681
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.228
+30/03/2022 15:18:25 distance: 22.10971177946681
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.228
+30/03/2022 15:18:25 distance: 22.10971177946681
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.228
+30/03/2022 15:18:25 distance: 22.10971177946681
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.228
+30/03/2022 15:18:25 distance: 22.10971177946681
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.267
+30/03/2022 15:18:25 distance: 22.089452388714587
+30/03/2022 15:18:25 Mode: STABILIZE
+30/03/2022 15:18:25 is_deepstalled(deepstall): False
+30/03/2022 15:18:25 angle to be adjusted: 1712
+30/03/2022 15:18:25 -------------Check stall condition-------------
+30/03/2022 15:18:25 Alt: 0.267
+30/03/2022 15:18:25 distance: 22.089452388714587
+30/03/2022 15:18:25 Mode: STABILIZE
