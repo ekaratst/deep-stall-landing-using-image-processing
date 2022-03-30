@@ -1,0 +1,1972 @@
+30/03/2022 10:58:51 Connecting to Vehicle on: /dev/ttyACM0
+30/03/2022 10:58:52 ArduPlane V4.1.4 (0f984409)
+30/03/2022 10:58:52 ChibiOS: 45395b6a
+30/03/2022 10:58:52 CubeBlack 00360049 3337510E 37353832
+30/03/2022 10:58:52 RCOut: PWM:1-14
+30/03/2022 10:58:52 IMU0: fast sampling enabled 8.0kHz/1.0kHz
+30/03/2022 10:58:52 IMU2: fast sampling enabled 8.0kHz/1.0kHz
+30/03/2022 10:59:03 is_deepstalled(image_processing): False
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.863
+30/03/2022 10:59:03 distance: 912.5910345954446
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.863
+30/03/2022 10:59:03 distance: 912.5910345954446
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.863
+30/03/2022 10:59:03 distance: 912.5910345954446
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.863
+30/03/2022 10:59:03 distance: 912.5910345954446
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.863
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.852
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.852
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.852
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.852
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.852
+30/03/2022 10:59:03 distance: 912.5683029404876
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.848
+30/03/2022 10:59:03 distance: 912.536967915522
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 ch7: 965
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 is_deepstalled(image_processing): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.848
+30/03/2022 10:59:03 distance: 912.536967915522
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:03 -------------Check stall condition-------------
+30/03/2022 10:59:03 Alt: -0.848
+30/03/2022 10:59:03 distance: 912.536967915522
+30/03/2022 10:59:03 Mode: STABILIZE
+30/03/2022 10:59:03 is_deepstalled(deepstall): False
+30/03/2022 10:59:03 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.848
+30/03/2022 10:59:04 distance: 912.536967915522
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.848
+30/03/2022 10:59:04 distance: 912.536967915522
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.848
+30/03/2022 10:59:04 distance: 912.536967915522
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 Alt: -0.848
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 distance: 912.536967915522
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.846
+30/03/2022 10:59:04 distance: 912.4899653978997
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.846
+30/03/2022 10:59:04 distance: 912.4899653978997
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.846
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 distance: 912.4899653978997
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 distance: 912.484441190412
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.842
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 distance: 912.5203968623184
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.838
+30/03/2022 10:59:04 distance: 912.5203968623184
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.838
+30/03/2022 10:59:04 distance: 912.5203968623184
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.838
+30/03/2022 10:59:04 distance: 912.5203968623184
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.844
+30/03/2022 10:59:04 distance: 912.5446682847188
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.844
+30/03/2022 10:59:04 distance: 912.5446682847188
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.844
+30/03/2022 10:59:04 ch7: 965
+30/03/2022 10:59:04 distance: 912.5446682847188
+30/03/2022 10:59:04 is_deepstalled(image_processing): False
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:04 is_deepstalled(deepstall): False
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 Pilot control
+30/03/2022 10:59:04 -------------Check stall condition-------------
+30/03/2022 10:59:04 Alt: -0.844
+30/03/2022 10:59:04 distance: 912.5446682847188
+30/03/2022 10:59:04 Mode: STABILIZE
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 is_deepstalled(image_processing): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.844
+30/03/2022 10:59:05 distance: 912.5446682847188
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.844
+30/03/2022 10:59:05 distance: 912.5446682847188
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.844
+30/03/2022 10:59:05 distance: 912.5376050100406
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.845
+30/03/2022 10:59:05 distance: 912.5376050100406
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.845
+30/03/2022 10:59:05 distance: 912.5376050100406
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 is_deepstalled(image_processing): False
+30/03/2022 10:59:05 Alt: -0.845
+30/03/2022 10:59:05 distance: 912.5462091660617
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.851
+30/03/2022 10:59:05 distance: 912.5462091660617
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.851
+30/03/2022 10:59:05 distance: 912.5462091660617
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 is_deepstalled(image_processing): False
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6190239195064
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 distance: 912.6190239195064
+30/03/2022 10:59:05 is_deepstalled(image_processing): False
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6190239195064
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6190239195064
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6190239195064
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6730889970936
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 is_deepstalled(image_processing): False
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6730889970936
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:05 -------------Check stall condition-------------
+30/03/2022 10:59:05 Alt: -0.857
+30/03/2022 10:59:05 distance: 912.6730889970936
+30/03/2022 10:59:05 Mode: STABILIZE
+30/03/2022 10:59:05 is_deepstalled(deepstall): False
+30/03/2022 10:59:05 ch7: 965
+30/03/2022 10:59:05 Pilot control
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.857
+30/03/2022 10:59:06 distance: 912.6730889970936
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.858
+30/03/2022 10:59:06 distance: 912.7342175676717
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.858
+30/03/2022 10:59:06 distance: 912.7342175676717
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.858
+30/03/2022 10:59:06 distance: 912.7342175676717
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.858
+30/03/2022 10:59:06 distance: 912.7342175676717
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Alt: -0.858
+30/03/2022 10:59:06 distance: 912.7569483488297
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.856
+30/03/2022 10:59:06 distance: 912.7569483488297
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.856
+30/03/2022 10:59:06 distance: 912.7569483488297
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7483444145657
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7483444145657
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7483444145657
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7483444145657
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7483444145657
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.853
+30/03/2022 10:59:06 distance: 912.7538678392864
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.857
+30/03/2022 10:59:06 distance: 912.7538678392864
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 ch7: 965
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 is_deepstalled(image_processing): False
+30/03/2022 10:59:06 Alt: -0.857
+30/03/2022 10:59:06 distance: 912.7538678392864
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.857
+30/03/2022 10:59:06 distance: 912.7538678392864
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 Pilot control
+30/03/2022 10:59:06 -------------Check stall condition-------------
+30/03/2022 10:59:06 Alt: -0.857
+30/03/2022 10:59:06 distance: 912.7538678392864
+30/03/2022 10:59:06 Mode: STABILIZE
+30/03/2022 10:59:06 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.7538678392864
+30/03/2022 10:59:07 Mode: STABILIZE
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.7538678392864
+30/03/2022 10:59:07 Mode: STABILIZE
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.858
+30/03/2022 10:59:07 Mission: 1 WP
+30/03/2022 10:59:07 distance: 912.793174036479
+30/03/2022 10:59:07 Mode: STABILIZE
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.858
+30/03/2022 10:59:07 distance: 912.793174036479
+30/03/2022 10:59:07 Mode: STABILIZE
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 Pilot control
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.858
+30/03/2022 10:59:07 distance: 912.793174036479
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.858
+30/03/2022 10:59:07 distance: 912.793174036479
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 Alt: -0.858
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 distance: 912.793174036479
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8082176221865
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.857
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.864
+30/03/2022 10:59:07 distance: 912.8586017113146
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.868
+30/03/2022 10:59:07 distance: 912.9348060547181
+30/03/2022 10:59:07 ch7: 965
+30/03/2022 10:59:07 Mode: AUTO
+30/03/2022 10:59:07 is_deepstalled(image_processing): False
+30/03/2022 10:59:07 is_deepstalled(deepstall): False
+30/03/2022 10:59:07 Changed mode to: AUTO
+30/03/2022 10:59:07 Waiting for reach target...
+30/03/2022 10:59:07 -------------Check stall condition-------------
+30/03/2022 10:59:07 Alt: -0.868
+30/03/2022 10:59:07 distance: 912.9348060547181
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.868
+30/03/2022 10:59:08 distance: 912.9348060547181
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.874
+30/03/2022 10:59:08 distance: 913.0549674210232
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 is_deepstalled(image_processing): False
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.874
+30/03/2022 10:59:08 distance: 913.0549674210232
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.874
+30/03/2022 10:59:08 distance: 913.0549674210232
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 is_deepstalled(image_processing): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.888
+30/03/2022 10:59:08 distance: 913.192348817557
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(image_processing): False
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.921
+30/03/2022 10:59:08 distance: 913.3737048068949
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.921
+30/03/2022 10:59:08 distance: 913.3737048068949
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 is_deepstalled(image_processing): False
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.921
+30/03/2022 10:59:08 distance: 913.3737048068949
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: -0.921
+30/03/2022 10:59:08 distance: 913.3737048068949
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 is_deepstalled(image_processing): False
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:08 -------------Check stall condition-------------
+30/03/2022 10:59:08 Alt: 0.178
+30/03/2022 10:59:08 distance: 913.5308267434931
+30/03/2022 10:59:08 Mode: AUTO
+30/03/2022 10:59:08 is_deepstalled(deepstall): False
+30/03/2022 10:59:08 Changed mode to: AUTO
+30/03/2022 10:59:08 ch7: 965
+30/03/2022 10:59:08 Waiting for reach target...
+30/03/2022 10:59:09 is_deepstalled(image_processing): False
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.178
+30/03/2022 10:59:09 distance: 913.5308267434931
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.178
+30/03/2022 10:59:09 distance: 913.7076885373162
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 ch7: 965
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 is_deepstalled(image_processing): False
+30/03/2022 10:59:09 Alt: 0.152
+30/03/2022 10:59:09 distance: 913.7076885373162
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.152
+30/03/2022 10:59:09 distance: 913.7076885373162
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.116
+30/03/2022 10:59:09 distance: 913.9771056839519
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 ch7: 965
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 is_deepstalled(image_processing): False
+30/03/2022 10:59:09 Alt: 0.116
+30/03/2022 10:59:09 distance: 913.9771056839519
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.116
+30/03/2022 10:59:09 distance: 913.9771056839519
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 ch7: 965
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 is_deepstalled(image_processing): False
+30/03/2022 10:59:09 Alt: 0.085
+30/03/2022 10:59:09 distance: 914.3163470690139
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.085
+30/03/2022 10:59:09 distance: 914.3163470690139
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 ch7: 965
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 is_deepstalled(image_processing): False
+30/03/2022 10:59:09 Alt: 0.085
+30/03/2022 10:59:09 distance: 914.3163470690139
+30/03/2022 10:59:09 Mode: AUTO
+30/03/2022 10:59:09 is_deepstalled(deepstall): False
+30/03/2022 10:59:09 Changed mode to: AUTO
+30/03/2022 10:59:09 Waiting for reach target...
+30/03/2022 10:59:09 -------------Check stall condition-------------
+30/03/2022 10:59:09 Alt: 0.085
+30/03/2022 10:59:09 ch7: 965
+30/03/2022 10:59:09 distance: 914.6485766120074
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.057
+30/03/2022 10:59:10 distance: 914.6485766120074
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 914.9950416438722
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.024
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 Alt: 0.007
+30/03/2022 10:59:10 distance: 915.2095251482267
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.004
+30/03/2022 10:59:10 distance: 915.4367149723573
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.004
+30/03/2022 10:59:10 distance: 915.4367149723573
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.004
+30/03/2022 10:59:10 distance: 915.4367149723573
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.012
+30/03/2022 10:59:10 distance: 915.5799859840697
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.012
+30/03/2022 10:59:10 distance: 915.5799859840697
+30/03/2022 10:59:10 ch7: 965
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:10 is_deepstalled(image_processing): False
+30/03/2022 10:59:10 is_deepstalled(deepstall): False
+30/03/2022 10:59:10 Changed mode to: AUTO
+30/03/2022 10:59:10 Waiting for reach target...
+30/03/2022 10:59:10 -------------Check stall condition-------------
+30/03/2022 10:59:10 Alt: 0.012
+30/03/2022 10:59:10 distance: 915.5799859840697
+30/03/2022 10:59:10 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 distance: 915.5799859840697
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.015
+30/03/2022 10:59:11 distance: 915.6676855392742
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.015
+30/03/2022 10:59:11 distance: 915.6676855392742
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 Alt: 0.015
+30/03/2022 10:59:11 distance: 915.6676855392742
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.015
+30/03/2022 10:59:11 distance: 915.6676855392742
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 distance: 915.7456920409224
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 distance: 915.7456920409224
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 distance: 915.7456920409224
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 distance: 915.7456920409224
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 distance: 915.7456920409224
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.012
+30/03/2022 10:59:11 distance: 915.8677528543097
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.007
+30/03/2022 10:59:11 distance: 915.8677528543097
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 Alt: 0.007
+30/03/2022 10:59:11 distance: 915.9528765847441
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:11 -------------Check stall condition-------------
+30/03/2022 10:59:11 ch7: 965
+30/03/2022 10:59:11 Alt: 0.018
+30/03/2022 10:59:11 is_deepstalled(image_processing): False
+30/03/2022 10:59:11 distance: 915.9528765847441
+30/03/2022 10:59:11 Mode: AUTO
+30/03/2022 10:59:11 is_deepstalled(deepstall): False
+30/03/2022 10:59:11 Changed mode to: AUTO
+30/03/2022 10:59:11 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.018
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 distance: 915.9528765847441
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.018
+30/03/2022 10:59:12 distance: 915.9528765847441
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.015
+30/03/2022 10:59:12 distance: 916.0566509171286
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.015
+30/03/2022 10:59:12 distance: 916.0566509171286
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.015
+30/03/2022 10:59:12 distance: 916.0566509171286
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: 0.006
+30/03/2022 10:59:12 distance: 916.1518535631902
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.2399669508533
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.001
+30/03/2022 10:59:12 distance: 916.335182872388
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:12 is_deepstalled(deepstall): False
+30/03/2022 10:59:12 ch7: 965
+30/03/2022 10:59:12 Changed mode to: AUTO
+30/03/2022 10:59:12 is_deepstalled(image_processing): False
+30/03/2022 10:59:12 Waiting for reach target...
+30/03/2022 10:59:12 -------------Check stall condition-------------
+30/03/2022 10:59:12 Alt: -0.003
+30/03/2022 10:59:12 distance: 916.335182872388
+30/03/2022 10:59:12 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: -0.003
+30/03/2022 10:59:13 distance: 916.335182872388
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: -0.003
+30/03/2022 10:59:13 distance: 916.335182872388
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 Alt: 0.003
+30/03/2022 10:59:13 distance: 916.4304058026851
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.003
+30/03/2022 10:59:13 distance: 916.4304058026851
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.003
+30/03/2022 10:59:13 distance: 916.4304058026851
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.012
+30/03/2022 10:59:13 distance: 916.5256357414248
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.012
+30/03/2022 10:59:13 distance: 916.5256357414248
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.012
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 distance: 916.5256357414248
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.012
+30/03/2022 10:59:13 distance: 916.5256357414248
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 Alt: 0.029
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 distance: 916.5439797802974
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.029
+30/03/2022 10:59:13 distance: 916.5439797802974
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.029
+30/03/2022 10:59:13 distance: 916.5439797802974
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.045
+30/03/2022 10:59:13 distance: 916.4768592719856
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(image_processing): False
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.045
+30/03/2022 10:59:13 distance: 916.4768592719856
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:13 Waiting for reach target...
+30/03/2022 10:59:13 -------------Check stall condition-------------
+30/03/2022 10:59:13 Alt: 0.045
+30/03/2022 10:59:13 distance: 916.4768592719856
+30/03/2022 10:59:13 Mode: AUTO
+30/03/2022 10:59:13 is_deepstalled(deepstall): False
+30/03/2022 10:59:13 ch7: 965
+30/03/2022 10:59:13 Changed mode to: AUTO
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.045
+30/03/2022 10:59:14 distance: 916.4768592719856
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.045
+30/03/2022 10:59:14 distance: 916.3257466871326
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.068
+30/03/2022 10:59:14 distance: 916.3257466871326
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.068
+30/03/2022 10:59:14 distance: 916.3257466871326
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 Alt: 0.068
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 distance: 916.1988821252991
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.089
+30/03/2022 10:59:14 distance: 916.1988821252991
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.089
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 distance: 916.1988821252991
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.089
+30/03/2022 10:59:14 distance: 916.1988821252991
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.117
+30/03/2022 10:59:14 distance: 916.0921163027205
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 Alt: 0.117
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 distance: 916.0921163027205
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 0.117
+30/03/2022 10:59:14 distance: 916.0921163027205
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 2.499
+30/03/2022 10:59:14 distance: 916.0379962603276
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 2.499
+30/03/2022 10:59:14 distance: 916.0379962603276
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:14 Changed mode to: AUTO
+30/03/2022 10:59:14 Waiting for reach target...
+30/03/2022 10:59:14 -------------Check stall condition-------------
+30/03/2022 10:59:14 Alt: 2.499
+30/03/2022 10:59:14 ch7: 965
+30/03/2022 10:59:14 distance: 916.0379962603276
+30/03/2022 10:59:14 is_deepstalled(image_processing): False
+30/03/2022 10:59:14 Mode: AUTO
+30/03/2022 10:59:14 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.499
+30/03/2022 10:59:15 distance: 916.0379962603276
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.565
+30/03/2022 10:59:15 distance: 915.9481026891808
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.565
+30/03/2022 10:59:15 distance: 915.9481026891808
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.565
+30/03/2022 10:59:15 distance: 915.9481026891808
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.565
+30/03/2022 10:59:15 distance: 915.9481026891808
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.605
+30/03/2022 10:59:15 distance: 915.8097144472711
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.605
+30/03/2022 10:59:15 distance: 915.8097144472711
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.605
+30/03/2022 10:59:15 distance: 915.8097144472711
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.632880474164
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.623
+30/03/2022 10:59:15 distance: 915.4731948189797
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.62
+30/03/2022 10:59:15 ch7: 965
+30/03/2022 10:59:15 distance: 915.4731948189797
+30/03/2022 10:59:15 is_deepstalled(image_processing): False
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:15 Changed mode to: AUTO
+30/03/2022 10:59:15 Waiting for reach target...
+30/03/2022 10:59:15 -------------Check stall condition-------------
+30/03/2022 10:59:15 Alt: 2.62
+30/03/2022 10:59:15 distance: 915.4731948189797
+30/03/2022 10:59:15 Mode: AUTO
+30/03/2022 10:59:15 is_deepstalled(deepstall): False
+30/03/2022 10:59:16 ch7: 965
+30/03/2022 10:59:16 Changed mode to: AUTO
+30/03/2022 10:59:16 is_deepstalled(image_processing): False
+30/03/2022 10:59:16 Waiting for reach target...
+30/03/2022 10:59:16 -------------Check stall condition-------------
+30/03/2022 10:59:16 Alt: 2.62
+30/03/2022 10:59:16 distance: 915.4731948189797
+30/03/2022 10:59:16 Mode: AUTO
+30/03/2022 10:59:16 is_deepstalled(deepstall): False
+30/03/2022 10:59:16 Changed mode to: AUTO
+30/03/2022 10:59:16 Waiting for reach target...
+30/03/2022 10:59:16 -------------Check stall condition-------------
+30/03/2022 10:59:16 Alt: 2.62
+30/03/2022 10:59:16 distance: 915.4731948189797
+30/03/2022 10:59:16 Mode: AUTO
+30/03/2022 10:59:16 is_deepstalled(deepstall): False
+30/03/2022 10:59:16 Changed mode to: AUTO
+30/03/2022 10:59:16 Waiting for reach target...
+30/03/2022 10:59:16 -------------Check stall condition-------------
+30/03/2022 10:59:16 Alt: 2.62
+30/03/2022 10:59:16 distance: 915.4731948189797
+30/03/2022 10:59:16 Mode: AUTO
+30/03/2022 10:59:16 is_deepstalled(deepstall): False
+30/03/2022 10:59:16 Changed mode to: AUTO
+30/03/2022 10:59:16 Waiting for reach target...
+30/03/2022 10:59:16 -------------Check stall condition-------------
+30/03/2022 10:59:16 Alt: 2.62
+30/03/2022 10:59:16 distance: 915.4731948189797
+30/03/2022 10:59:16 Mode: AUTO
+30/03/2022 10:59:16 is_deepstalled(deepstall): False

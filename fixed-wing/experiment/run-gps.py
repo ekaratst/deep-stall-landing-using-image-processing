@@ -55,7 +55,7 @@ timer_exit = 10
 
 #--- Define Tag
 id_to_find  = 72
-marker_size  = 50 #- [cm]
+marker_size  = 100 #- [cm] #50
 
 font = cv2.FONT_HERSHEY_PLAIN
 
@@ -76,11 +76,11 @@ parameters  = aruco.DetectorParameters_create()
 
 is_deepstalled = False
 is_find_id = False
-global angle_to_be_adjusted
-angle_to_be_adjusted = 1518 #1515
+angle_to_be_adjusted = 1712 #1515
 
-def deepstall(angle_to_be_adjusted):
+def deepstall():
 	global is_deepstalled
+	
 	# printfr("Thread-2")
 	# start = time.time()
 	lat = 13.8471013 #13.8471013
@@ -128,18 +128,21 @@ def deepstall(angle_to_be_adjusted):
 		
 		# -- Post stall
 		current_altitude = vehicle.location.global_relative_frame.alt
+		printfr("angle to be adjusted: " + str(angle_to_be_adjusted))
 		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			# if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			if current_altitude > 10: #10
-				printfr("-------------Post stall-------------")
-					# post_stall(start_time, row ,col, ratio_time)
-				vehicle.channels.overrides['2'] = 1800
-				
+				# printfr("-------------Post stall-------------")
+				# 	# post_stall(start_time, row ,col, ratio_time)
+				# vehicle.channels.overrides['2'] = 1800
+
+				printfr("-------------Adjust angle after stall-------------")
+				vehicle.channels.overrides['2'] = angle_to_be_adjusted
 
 			# -- Adjust elevator angle
 			else:
 				printfr("-------------Adjust angle after stall-------------")
-				printfr(str(angle_to_be_adjusted))
+				# printfr("angle to be adjusted: " + str(angle_to_be_adjusted))
 				vehicle.channels.overrides['2'] = angle_to_be_adjusted
 			
 			#post_stall_time = time.time()
@@ -265,10 +268,12 @@ def printfr(str):
 	logging.info(str)
 
 def adjust_elevator(trajectory_angle):
+	global angle_to_be_adjusted
 	printfr("Check adjust elevator condition")
 	printfr("is_deepstalled(adjust_elevator): "+ str(is_deepstalled))
+	printfr("ch8 adjust elevator: " + str(vehicle.channels['8']))
 	if int(vehicle.channels['8']) > 1514 and is_deepstalled:
-		print("Tarjectory angle: " + str(trajectory_angle))
+		printfr("Tarjectory angle: " + str(trajectory_angle))
 		if trajectory_angle >= 1 and trajectory_angle <= 9:
 			vehicle.channels.overrides['2'] = 1515
 			angle_to_be_adjusted = 1515
@@ -347,7 +352,7 @@ try:
 
 	# printfr(timestr)		
 	_thread.start_new_thread( image_processing, (cap, id_to_find, out, ))
-	_thread.start_new_thread( deepstall, (angle_to_be_adjusted,))
+	_thread.start_new_thread( deepstall, ())
 	
 
 
