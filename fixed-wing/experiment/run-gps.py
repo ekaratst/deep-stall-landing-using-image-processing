@@ -83,20 +83,21 @@ def deepstall():
 	
 	# printfr("Thread-2")
 	# start = time.time()
-	lat = 13.8472230 #13.8471013
-	lon = 100.5656008 #100.5658087
+	lat = 13.8471013 #13.8471013(center) ,13.8472230(new)
+	lon = 100.5658087 #100.5658087(center) , 100.5656008(new)
 	alt = 0 #0
 	target_waypoint_location = LocationGlobalRelative(lat,lon,alt)
 	# target_waypoint_location = vehicle.location.global_relative_frame
 	while True:
 		altitude_now = vehicle.location.global_relative_frame.alt
-		printfr("-------------Check stall condition-------------")
-		printfr("Alt: " + str(altitude_now))
+		# printfr("-------------Check stall condition-------------")
+		# printfr("Alt: " + str(altitude_now))
 		# printfr("ch8: " + str(vehicle.channels['8'])) # G switch
 		current_waypoint_location = vehicle.location.global_relative_frame
 		printfr("distance: " + str(get_distance_metres(current_waypoint_location, target_waypoint_location)))
-		printfr("Mode: " + str(vehicle.mode.name))
-		printfr("is_deepstalled(deepstall): "+ str(is_deepstalled))
+		time.sleep(1)
+		# printfr("Mode: " + str(vehicle.mode.name))
+		# printfr("is_deepstalled(deepstall): "+ str(is_deepstalled))
 		# printfr("-------------------------------------")
 
 		# -- Deep stall conditions
@@ -128,7 +129,7 @@ def deepstall():
 		
 		# -- Post stall
 		current_altitude = vehicle.location.global_relative_frame.alt
-		printfr("angle to be adjusted: " + str(angle_to_be_adjusted))
+		# printfr("angle to be adjusted: " + str(angle_to_be_adjusted))
 		if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			# if int(vehicle.channels['8']) > 1514 and is_deepstalled:
 			if current_altitude > 10: #10
@@ -170,7 +171,7 @@ def image_processing(cap, id_to_find, out):
 	is_detected = False
 	while True:
 		
-		printfr("is_deepstalled(image_processing): "+ str(is_deepstalled))
+		# printfr("is_deepstalled(image_processing): "+ str(is_deepstalled))
 		#-- Read the camera frame
 		ret, frame = cap.read()
 
@@ -255,7 +256,7 @@ def image_processing(cap, id_to_find, out):
 		#-- flare
 		key = cv2.waitKey(1) & 0xFF
 		# current_altitude = vehicle.location.global_relative_frame.alt
-		printfr("ch7: " + str(vehicle.channels['7']))
+		# printfr("ch7: " + str(vehicle.channels['7']))
 		if (int(vehicle.channels['7']) > 1514) or (key == ord('q')):
 			cap.release()
 			out.release()
